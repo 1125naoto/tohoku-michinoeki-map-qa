@@ -1,0 +1,216 @@
+{
+  "stationId": "mne-19573",
+  "lat": 34.88967,
+  "lng": 133.2757124,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T14:01:51Z",
+  "schemaVersion": 4,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:way/850293896",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "北京",
+      "lat": 34.8902493,
+      "lng": 133.2760776,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 73,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/850293896"
+    },
+    {
+      "id": "osm:way/839563180",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "赤とんぼ",
+      "lat": 34.8940287,
+      "lng": 133.2746315,
+      "address": null,
+      "openingHoursRaw": "11:30-14:00,17:00-22:00",
+      "phone": null,
+      "website": null,
+      "distanceM": 495,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/839563180"
+    },
+    {
+      "id": "osm:way/838549217",
+      "category": "food",
+      "subcategory": "ramen",
+      "subcategories": [
+        "ramen"
+      ],
+      "name": "風龍",
+      "lat": 34.8943436,
+      "lng": 133.2750981,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 523,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/838549217"
+    },
+    {
+      "id": "osm:way/1119144145",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "Zakka&Cafe Yabuki Tategu Ten",
+      "lat": 34.8953847,
+      "lng": 133.2722671,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 709,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1119144145"
+    },
+    {
+      "id": "osm:way/850321554",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "HANATOJYO",
+      "lat": 34.8961056,
+      "lng": 133.2722998,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 780,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/850321554"
+    },
+    {
+      "id": "osm:way/1558497321",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "モン プティ シェリ",
+      "lat": 34.8970806,
+      "lng": 133.2762426,
+      "address": null,
+      "openingHoursRaw": "Mo-Sa 10:00+",
+      "phone": "+81 08477 3 6007",
+      "website": "https://subsaku.com/mon-petit-chri/",
+      "distanceM": 825,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1558497321"
+    },
+    {
+      "id": "osm:way/1101932116",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "手打ちそば みじゅくもん",
+      "lat": 34.8983534,
+      "lng": 133.2726215,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 1006,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1101932116"
+    },
+    {
+      "id": "osm:way/850328299",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "蓬来園",
+      "lat": 34.8996578,
+      "lng": 133.2752243,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 1111,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/850328299"
+    },
+    {
+      "id": "osm:way/850904854",
+      "category": "food",
+      "subcategory": "ramen",
+      "subcategories": [
+        "ramen"
+      ],
+      "name": "松田屋",
+      "lat": 34.8995019,
+      "lng": 133.2733435,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": "+81 8477 2 0220",
+      "website": null,
+      "distanceM": 1114,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/850904854"
+    },
+    {
+      "id": "osm:way/638401174",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "弥生食堂",
+      "lat": 34.8686647,
+      "lng": 133.2034068,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6997,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/638401174"
+    },
+    {
+      "id": "osm:node/7931438009",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "昭和食堂",
+      "lat": 34.8700506,
+      "lng": 133.1999548,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7247,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/7931438009"
+    }
+  ]
+}

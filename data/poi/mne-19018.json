@@ -1,0 +1,126 @@
+{
+  "stationId": "mne-19018",
+  "lat": 37.0865496,
+  "lng": 139.7275995,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T09:06:57Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:node/13124117224",
+      "category": "food",
+      "subcategory": "fastfood",
+      "subcategories": [
+        "fastfood"
+      ],
+      "name": null,
+      "lat": 37.0865363,
+      "lng": 139.7276524,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13124117224"
+    },
+    {
+      "id": "osm:way/1107265851",
+      "category": "food",
+      "subcategory": "ramen",
+      "subcategories": [
+        "ramen"
+      ],
+      "name": "会津らーめん処 みのや",
+      "lat": 37.1111882,
+      "lng": 139.7197445,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 2827,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1107265851"
+    },
+    {
+      "id": "osm:node/13124696406",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "お休処 やすらぎ",
+      "lat": 37.0142548,
+      "lng": 139.7295097,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8041,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13124696406"
+    },
+    {
+      "id": "osm:node/13124696409",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "ひのえ屋",
+      "lat": 37.0139368,
+      "lng": 139.7299455,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8077,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13124696409"
+    },
+    {
+      "id": "osm:node/13124696407",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "こま草",
+      "lat": 37.0136476,
+      "lng": 139.7295821,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8108,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13124696407"
+    },
+    {
+      "id": "osm:node/3263404290",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "カフェテリアハイランド",
+      "lat": 37.1173461,
+      "lng": 139.6315255,
+      "address": null,
+      "openingHoursRaw": "08:30-15:30",
+      "phone": null,
+      "website": null,
+      "distanceM": 9183,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/3263404290"
+    }
+  ]
+}

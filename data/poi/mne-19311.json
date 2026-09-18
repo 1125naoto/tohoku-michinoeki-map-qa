@@ -1,0 +1,234 @@
+{
+  "stationId": "mne-19311",
+  "lat": 36.0879645,
+  "lng": 137.3505722,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T11:42:27Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:node/6419667336",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "Casa Sola",
+      "lat": 36.1413262,
+      "lng": 137.2660474,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9636,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6419667336"
+    },
+    {
+      "id": "osm:node/3270240877",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "陽の芽",
+      "lat": 36.1474453,
+      "lng": 137.2719162,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9678,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/3270240877"
+    },
+    {
+      "id": "osm:node/12387619807",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": null,
+      "lat": 36.1190074,
+      "lng": 137.2488445,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9769,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/12387619807"
+    },
+    {
+      "id": "osm:node/6419666830",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": null,
+      "lat": 36.1396979,
+      "lng": 137.2623721,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9791,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6419666830"
+    },
+    {
+      "id": "osm:node/13347347668",
+      "category": "food",
+      "subcategory": "ramen",
+      "subcategories": [
+        "ramen"
+      ],
+      "name": "大黒屋",
+      "lat": 36.1425237,
+      "lng": 137.264411,
+      "address": null,
+      "openingHoursRaw": "Mo-We,Fr-Su 10:00-20:00",
+      "phone": null,
+      "website": null,
+      "distanceM": 9834,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13347347668"
+    },
+    {
+      "id": "osm:way/1059571211",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "レストラン四季",
+      "lat": 36.1285249,
+      "lng": 137.2519881,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9939,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1059571211"
+    },
+    {
+      "id": "osm:node/13833692238",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "麵屋伊吹",
+      "lat": 36.13376,
+      "lng": 137.2553368,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9956,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13833692238"
+    },
+    {
+      "id": "osm:node/4123618489",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "Center4 Hamburgers",
+      "lat": 36.1410581,
+      "lng": 137.2610735,
+      "address": "94 Kamiichino-machi (上一之町94)",
+      "openingHoursRaw": "Th-Tu 11:00-14:30, 18:00-21:30",
+      "phone": null,
+      "website": null,
+      "distanceM": 9974,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4123618489"
+    },
+    {
+      "id": "osm:node/5938180287",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": null,
+      "lat": 36.1417661,
+      "lng": 137.2616225,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9982,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5938180287"
+    },
+    {
+      "id": "osm:node/6408499769",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "Sukeharu",
+      "lat": 36.1408928,
+      "lng": 137.2607192,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9989,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6408499769"
+    },
+    {
+      "id": "osm:node/5087484221",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "ブラスリー 陣屋",
+      "lat": 36.1404432,
+      "lng": 137.2601986,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9998,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5087484221"
+    },
+    {
+      "id": "osm:node/6419668030",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": null,
+      "lat": 36.141533,
+      "lng": 137.2611193,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 10002,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6419668030"
+    }
+  ]
+}

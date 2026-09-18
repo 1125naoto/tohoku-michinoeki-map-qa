@@ -1,0 +1,252 @@
+{
+  "stationId": "mne-18884",
+  "lat": 44.0690729,
+  "lng": 144.9906685,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T07:00:02Z",
+  "schemaVersion": 4,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:node/9751899267",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": null,
+      "lat": 44.0691516,
+      "lng": 144.9908316,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 16,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/9751899267"
+    },
+    {
+      "id": "osm:node/14026424302",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "波飛沫",
+      "lat": 44.0669845,
+      "lng": 144.9886082,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://namishibuki.jp/",
+      "distanceM": 285,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14026424302"
+    },
+    {
+      "id": "osm:node/13991085401",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "アルビレオ",
+      "lat": 44.0701335,
+      "lng": 144.9942025,
+      "address": "国道334号",
+      "openingHoursRaw": "Fr-Mo 08:00-14:00",
+      "phone": null,
+      "website": "https://www.coffee-albireo.com/",
+      "distanceM": 306,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13991085401"
+    },
+    {
+      "id": "osm:node/13040590501",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "Albireo",
+      "lat": 44.0701413,
+      "lng": 144.9942342,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://www.coffee-albireo.com",
+      "distanceM": 309,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13040590501"
+    },
+    {
+      "id": "osm:node/13040590401",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "APU",
+      "lat": 44.0701332,
+      "lng": 144.9945343,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 331,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13040590401"
+    },
+    {
+      "id": "osm:node/13040614401",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "Bon's Home",
+      "lat": 44.0703108,
+      "lng": 144.9944968,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 335,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13040614401"
+    },
+    {
+      "id": "osm:node/14019725701",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "知床食堂レオナルド",
+      "lat": 44.0713287,
+      "lng": 144.9936441,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 346,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14019725701"
+    },
+    {
+      "id": "osm:node/5893195391",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "知床かに乃家",
+      "lat": 44.0719623,
+      "lng": 144.9935058,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 393,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5893195391"
+    },
+    {
+      "id": "osm:node/5893195390",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "ウトロ漁協婦人部食堂",
+      "lat": 44.0729177,
+      "lng": 144.993905,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 500,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5893195390"
+    },
+    {
+      "id": "osm:way/375641482",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "番屋",
+      "lat": 44.0705954,
+      "lng": 145.0006159,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 813,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/375641482"
+    },
+    {
+      "id": "osm:way/375641479",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "潮風",
+      "lat": 44.0715424,
+      "lng": 145.001624,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 917,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/375641479"
+    },
+    {
+      "id": "osm:node/13979940901",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": null,
+      "lat": 44.0913193,
+      "lng": 145.0227887,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 3564,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13979940901"
+    },
+    {
+      "id": "osm:node/2538150330",
+      "category": "food",
+      "subcategory": "fastfood",
+      "subcategories": [
+        "fastfood"
+      ],
+      "name": null,
+      "lat": 44.1222792,
+      "lng": 145.080064,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9272,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2538150330"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "stationId": "mne-19213",
+  "lat": 37.5816068,
+  "lng": 138.7590595,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T10:12:56Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:way/825830090",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "もてなし家",
+      "lat": 37.5814834,
+      "lng": 138.7590053,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 15,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/825830090"
+    },
+    {
+      "id": "osm:way/825830098",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "道の駅良寛の里わしま 和らぎ家",
+      "lat": 37.5807066,
+      "lng": 138.7631682,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 376,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/825830098"
+    },
+    {
+      "id": "osm:node/7710721157",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "ドライブイン",
+      "lat": 37.5777321,
+      "lng": 138.7605751,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 451,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/7710721157"
+    },
+    {
+      "id": "osm:way/825830092",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "茶室 指月亭",
+      "lat": 37.5808376,
+      "lng": 138.7643501,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 474,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/825830092"
+    },
+    {
+      "id": "osm:node/7710730611",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "てまり",
+      "lat": 37.5809919,
+      "lng": 138.7710866,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 1062,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/7710730611"
+    },
+    {
+      "id": "osm:way/1002565907",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "久廼弥",
+      "lat": 37.5421066,
+      "lng": 138.8109577,
+      "address": "新潟県長岡市",
+      "openingHoursRaw": "17:00-22:00 \"ディナー\"",
+      "phone": null,
+      "website": null,
+      "distanceM": 6342,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1002565907"
+    },
+    {
+      "id": "osm:node/7967920353",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "中川清兵衛記念BBQビール園",
+      "lat": 37.5417935,
+      "lng": 138.8139054,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6555,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/7967920353"
+    },
+    {
+      "id": "osm:node/5076416921",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "田舎茶屋ゆきちゃん",
+      "lat": 37.6468519,
+      "lng": 138.7713292,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7335,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5076416921"
+    },
+    {
+      "id": "osm:node/3653387798",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "レストハウス 華苑",
+      "lat": 37.6191732,
+      "lng": 138.8427513,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8474,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/3653387798"
+    },
+    {
+      "id": "osm:node/3656204685",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "庄屋",
+      "lat": 37.6680871,
+      "lng": 138.7801052,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9793,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/3656204685"
+    }
+  ]
+}

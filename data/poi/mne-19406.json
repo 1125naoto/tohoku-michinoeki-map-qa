@@ -1,0 +1,234 @@
+{
+  "stationId": "mne-19406",
+  "lat": 34.9277903,
+  "lng": 136.2956751,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T12:26:28Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:way/1159918423",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "喫茶オアシス",
+      "lat": 34.9339214,
+      "lng": 136.2882187,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 963,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1159918423"
+    },
+    {
+      "id": "osm:way/1158348711",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "青山",
+      "lat": 34.9367897,
+      "lng": 136.2848087,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 1408,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1158348711"
+    },
+    {
+      "id": "osm:node/8671784623",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "はなぶさ",
+      "lat": 34.9457608,
+      "lng": 136.2414407,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5332,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/8671784623"
+    },
+    {
+      "id": "osm:node/13993826501",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "ヒュッゲカフェ",
+      "lat": 34.9443343,
+      "lng": 136.2371914,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5640,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13993826501"
+    },
+    {
+      "id": "osm:way/572535411",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "宇奈月",
+      "lat": 34.8947059,
+      "lng": 136.2228763,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7589,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/572535411"
+    },
+    {
+      "id": "osm:node/12811142228",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "農村レストラン",
+      "lat": 35.01307,
+      "lng": 136.2804692,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9583,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/12811142228"
+    },
+    {
+      "id": "osm:node/13341894548",
+      "category": "food",
+      "subcategory": "fastfood",
+      "subcategories": [
+        "fastfood"
+      ],
+      "name": "アルプスカフェ",
+      "lat": 35.0133639,
+      "lng": 136.282476,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9591,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13341894548"
+    },
+    {
+      "id": "osm:node/13341894546",
+      "category": "food",
+      "subcategory": "fastfood",
+      "subcategories": [
+        "fastfood"
+      ],
+      "name": "ドッグランカフェ",
+      "lat": 35.0137573,
+      "lng": 136.2844039,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9614,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13341894546"
+    },
+    {
+      "id": "osm:node/12811142229",
+      "category": "food",
+      "subcategory": "fastfood",
+      "subcategories": [
+        "fastfood"
+      ],
+      "name": "まちカフェ",
+      "lat": 35.0134868,
+      "lng": 136.2807767,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9625,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/12811142229"
+    },
+    {
+      "id": "osm:node/12811142244",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "近江牛レストランまきば",
+      "lat": 35.0142136,
+      "lng": 136.2845922,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9663,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/12811142244"
+    },
+    {
+      "id": "osm:node/12811142242",
+      "category": "food",
+      "subcategory": "fastfood",
+      "subcategories": [
+        "fastfood"
+      ],
+      "name": "ゲートカフェ",
+      "lat": 35.014038,
+      "lng": 136.2793172,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9705,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/12811142242"
+    },
+    {
+      "id": "osm:node/12811142231",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "アウトドアキッキン",
+      "lat": 35.014828,
+      "lng": 136.281302,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9766,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/12811142231"
+    }
+  ]
+}

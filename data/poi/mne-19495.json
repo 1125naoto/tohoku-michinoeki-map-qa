@@ -1,0 +1,108 @@
+{
+  "stationId": "mne-19495",
+  "lat": 33.8120801,
+  "lng": 135.5949713,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T13:23:07Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:node/11245043242",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": null,
+      "lat": 33.8120907,
+      "lng": 135.5948386,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 12,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/11245043242"
+    },
+    {
+      "id": "osm:node/11810297467",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "箸折茶屋",
+      "lat": 33.8145465,
+      "lng": 135.6060626,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 1061,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/11810297467"
+    },
+    {
+      "id": "osm:node/11247011997",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "かベロ",
+      "lat": 33.8145913,
+      "lng": 135.606258,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 1079,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/11247011997"
+    },
+    {
+      "id": "osm:node/10904114319",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": null,
+      "lat": 33.8278975,
+      "lng": 135.6333919,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 3961,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10904114319"
+    },
+    {
+      "id": "osm:node/11299858719",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "とがの木茶室",
+      "lat": 33.8282606,
+      "lng": 135.6345451,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4075,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/11299858719"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "stationId": "mne-22372",
+  "lat": 32.57307053976482,
+  "lng": 130.7962274369322,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T08:23:35Z",
+  "schemaVersion": 4,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:way/310646619",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "コムシロンカフェ",
+      "lat": 32.6243587,
+      "lng": 130.8139943,
+      "address": "下益城郡美里町小筵",
+      "openingHoursRaw": "11:00-21:00",
+      "phone": "0964-46-3665",
+      "website": "https://ameblo.jp/komushiron-cafe/",
+      "distanceM": 5941,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/310646619"
+    },
+    {
+      "id": "osm:node/3147272096",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "食彩館 あ助",
+      "lat": 32.632415,
+      "lng": 130.8072995,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6680,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/3147272096"
+    },
+    {
+      "id": "osm:way/309831082",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "杜之創庫(morino souko)",
+      "lat": 32.6391989,
+      "lng": 130.7930814,
+      "address": "下益城郡美里町馬場",
+      "openingHoursRaw": null,
+      "phone": "0964-46-4070",
+      "website": null,
+      "distanceM": 7359,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/309831082"
+    },
+    {
+      "id": "osm:node/12019775203",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "Board game café Mereni",
+      "lat": 32.645022,
+      "lng": 130.786805,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8049,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/12019775203"
+    },
+    {
+      "id": "osm:node/14071904425",
+      "category": "food",
+      "subcategory": "yoshoku",
+      "subcategories": [
+        "yoshoku"
+      ],
+      "name": "いきなり！ステーキ",
+      "lat": 32.5979,
+      "lng": 130.7037769,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9091,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14071904425"
+    },
+    {
+      "id": "osm:node/14071904423",
+      "category": "food",
+      "subcategory": "fastfood",
+      "subcategories": [
+        "fastfood"
+      ],
+      "name": "マクドナルド",
+      "lat": 32.5979509,
+      "lng": 130.7034457,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9123,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14071904423"
+    },
+    {
+      "id": "osm:node/14071904426",
+      "category": "food",
+      "subcategory": "fastfood",
+      "subcategories": [
+        "fastfood"
+      ],
+      "name": "ケンタッキーフライドチキン",
+      "lat": 32.5976876,
+      "lng": 130.7031506,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9140,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14071904426"
+    },
+    {
+      "id": "osm:node/12599992248",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "ドライブインなかがわ",
+      "lat": 32.578999,
+      "lng": 130.6968396,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9336,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/12599992248"
+    },
+    {
+      "id": "osm:node/5197327617",
+      "category": "food",
+      "subcategory": "fastfood",
+      "subcategories": [
+        "fastfood"
+      ],
+      "name": "ほっともっと",
+      "lat": 32.6565061,
+      "lng": 130.8089612,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9354,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5197327617"
+    },
+    {
+      "id": "osm:way/1363504185",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "うどん亭",
+      "lat": 32.5743044,
+      "lng": 130.6938726,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9592,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1363504185"
+    },
+    {
+      "id": "osm:node/1727171987",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": null,
+      "lat": 32.574151,
+      "lng": 130.9026146,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9970,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/1727171987"
+    }
+  ]
+}

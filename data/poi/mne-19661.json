@@ -1,0 +1,36 @@
+{
+  "stationId": "mne-19661",
+  "lat": 33.6142159,
+  "lng": 132.9699614,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T15:18:58Z",
+  "schemaVersion": 4,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:node/12161936305",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "久万山食堂",
+      "lat": 33.614177,
+      "lng": 132.9697555,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 20,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/12161936305"
+    }
+  ]
+}

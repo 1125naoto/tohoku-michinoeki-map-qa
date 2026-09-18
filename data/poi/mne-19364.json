@@ -1,0 +1,216 @@
+{
+  "stationId": "mne-19364",
+  "lat": 34.5836257,
+  "lng": 137.0201982,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T12:11:31Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:way/364717776",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "はまゆう",
+      "lat": 34.5814073,
+      "lng": 137.021397,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 270,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/364717776"
+    },
+    {
+      "id": "osm:way/364717775",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "五月堂",
+      "lat": 34.581364,
+      "lng": 137.0213073,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 271,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/364717775"
+    },
+    {
+      "id": "osm:way/364717777",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "満八屋",
+      "lat": 34.5813175,
+      "lng": 137.0212417,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 274,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/364717777"
+    },
+    {
+      "id": "osm:way/364717778",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "灯台茶屋",
+      "lat": 34.5812539,
+      "lng": 137.0212171,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 280,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/364717778"
+    },
+    {
+      "id": "osm:way/364717774",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "有斗里",
+      "lat": 34.5812021,
+      "lng": 137.0211387,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 283,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/364717774"
+    },
+    {
+      "id": "osm:way/364717773",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "石橋亭",
+      "lat": 34.5811413,
+      "lng": 137.0210889,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 288,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/364717773"
+    },
+    {
+      "id": "osm:way/496387034",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "伊良湖亭",
+      "lat": 34.581092,
+      "lng": 137.0210207,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 292,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/496387034"
+    },
+    {
+      "id": "osm:way/496387033",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "（有）ジャスト",
+      "lat": 34.580947,
+      "lng": 137.020826,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 303,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/496387033"
+    },
+    {
+      "id": "osm:way/700625969",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "クレール",
+      "lat": 34.5881379,
+      "lng": 137.0279709,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "http://www.misakino-bistro.com/",
+      "distanceM": 871,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/700625969"
+    },
+    {
+      "id": "osm:node/6345064553",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "浜辺の店 潮波",
+      "lat": 34.550154,
+      "lng": 136.9807886,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5184,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6345064553"
+    },
+    {
+      "id": "osm:node/9166612424",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "軽食喫茶さゞ波",
+      "lat": 34.5492965,
+      "lng": 136.9794334,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": "+81-599-25-2220",
+      "website": null,
+      "distanceM": 5339,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/9166612424"
+    }
+  ]
+}

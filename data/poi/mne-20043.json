@@ -1,0 +1,216 @@
+{
+  "stationId": "mne-20043",
+  "lat": 35.9233631,
+  "lng": 136.8321178,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T08:10:45Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:way/372540587",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "みのばんば",
+      "lat": 35.9234061,
+      "lng": 136.8310462,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 97,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/372540587"
+    },
+    {
+      "id": "osm:node/4742162946",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "さんたべーる",
+      "lat": 35.9272651,
+      "lng": 136.8302845,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 464,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4742162946"
+    },
+    {
+      "id": "osm:node/4742162947",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "かじか",
+      "lat": 35.9287375,
+      "lng": 136.830203,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 622,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4742162947"
+    },
+    {
+      "id": "osm:node/3324533461",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "終着駅北濃",
+      "lat": 35.930394,
+      "lng": 136.8299115,
+      "address": null,
+      "openingHoursRaw": "Fr-We 09:00-16:00",
+      "phone": "+81-575-85-2355",
+      "website": null,
+      "distanceM": 807,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/3324533461"
+    },
+    {
+      "id": "osm:node/10915701030",
+      "category": "food",
+      "subcategory": "italian",
+      "subcategories": [
+        "italian"
+      ],
+      "name": "ゴンザ",
+      "lat": 35.8834036,
+      "lng": 136.8540875,
+      "address": null,
+      "openingHoursRaw": "Mo-Tu off; We-Su 11:30-14:00,16:00-22:00",
+      "phone": "+81 57-5825-707",
+      "website": null,
+      "distanceM": 4864,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10915701030"
+    },
+    {
+      "id": "osm:node/8999482317",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "源助さん",
+      "lat": 35.8814777,
+      "lng": 136.8547262,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5083,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/8999482317"
+    },
+    {
+      "id": "osm:node/2631160776",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": null,
+      "lat": 35.9660182,
+      "lng": 136.8025494,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5439,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2631160776"
+    },
+    {
+      "id": "osm:way/257625738",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": null,
+      "lat": 35.9707412,
+      "lng": 136.8079191,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5701,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/257625738"
+    },
+    {
+      "id": "osm:node/11591292760",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "レストラン小さな丘",
+      "lat": 35.9578972,
+      "lng": 136.8946836,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": "+81 575 72 6011",
+      "website": null,
+      "distanceM": 6817,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/11591292760"
+    },
+    {
+      "id": "osm:way/409191082",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "TAKASU TERRACE",
+      "lat": 35.998237,
+      "lng": 136.8489104,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8462,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/409191082"
+    },
+    {
+      "id": "osm:node/5380862721",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": null,
+      "lat": 35.9879375,
+      "lng": 136.9090439,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9975,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5380862721"
+    }
+  ]
+}

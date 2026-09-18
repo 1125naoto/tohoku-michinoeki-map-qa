@@ -1,0 +1,108 @@
+{
+  "stationId": "mne-22060",
+  "lat": 33.50324,
+  "lng": 133.316399,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T08:19:11Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:way/388701878",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "豚太郎",
+      "lat": 33.500227,
+      "lng": 133.3012821,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 1441,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/388701878"
+    },
+    {
+      "id": "osm:node/6975579585",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": null,
+      "lat": 33.4999003,
+      "lng": 133.2897998,
+      "address": null,
+      "openingHoursRaw": "Mo-Su 11:00-14:30, 18:00-21:00",
+      "phone": null,
+      "website": null,
+      "distanceM": 2494,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6975579585"
+    },
+    {
+      "id": "osm:way/760439042",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "ほっかほっか亭",
+      "lat": 33.5087322,
+      "lng": 133.2886717,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 2642,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/760439042"
+    },
+    {
+      "id": "osm:way/388378605",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "大正軒",
+      "lat": 33.4996012,
+      "lng": 133.2873274,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 2726,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/388378605"
+    },
+    {
+      "id": "osm:way/585750684",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": null,
+      "lat": 33.5325267,
+      "lng": 133.2429854,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7545,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/585750684"
+    }
+  ]
+}

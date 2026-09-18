@@ -1,0 +1,90 @@
+{
+  "stationId": "mne-19682",
+  "lat": 33.5735339,
+  "lng": 133.366191,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T15:28:36Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:way/394661442",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": null,
+      "lat": 33.5503081,
+      "lng": 133.4414069,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7432,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/394661442"
+    },
+    {
+      "id": "osm:way/394661400",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "ココス",
+      "lat": 33.5498459,
+      "lng": 133.4413318,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7444,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/394661400"
+    },
+    {
+      "id": "osm:way/1123248552",
+      "category": "food",
+      "subcategory": "fastfood",
+      "subcategories": [
+        "fastfood"
+      ],
+      "name": "恋さ夜",
+      "lat": 33.5518394,
+      "lng": 133.4530735,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8404,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1123248552"
+    },
+    {
+      "id": "osm:way/1123248551",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "味楽",
+      "lat": 33.5518433,
+      "lng": 133.4531558,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": "+81 88 893 0505",
+      "website": null,
+      "distanceM": 8411,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1123248551"
+    }
+  ]
+}

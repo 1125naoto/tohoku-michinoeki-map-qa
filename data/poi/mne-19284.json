@@ -1,0 +1,216 @@
+{
+  "stationId": "mne-19284",
+  "lat": 35.3213462,
+  "lng": 137.9309442,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T11:29:37Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:node/13175381601",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": null,
+      "lat": 35.3212644,
+      "lng": 137.9311261,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 19,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13175381601"
+    },
+    {
+      "id": "osm:way/831016837",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "食楽工房　元家",
+      "lat": 35.3217996,
+      "lng": 137.9309679,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": "0260342501",
+      "website": "https://genya-iida.com/",
+      "distanceM": 50,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/831016837"
+    },
+    {
+      "id": "osm:way/667376925",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "殿町の茶屋",
+      "lat": 35.320114,
+      "lng": 137.9361028,
+      "address": "長野県飯田市2",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://tohyamago.com/stay_and_eat/tonomachi/",
+      "distanceM": 488,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/667376925"
+    },
+    {
+      "id": "osm:node/12866101201",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "蕎麦処　丸西屋",
+      "lat": 35.3469234,
+      "lng": 137.9527521,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 3464,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/12866101201"
+    },
+    {
+      "id": "osm:way/871059422",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "宮の腰亭",
+      "lat": 35.3694688,
+      "lng": 137.9701165,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6423,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/871059422"
+    },
+    {
+      "id": "osm:way/870648876",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "いっ福",
+      "lat": 35.3730651,
+      "lng": 137.9829883,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7440,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/870648876"
+    },
+    {
+      "id": "osm:way/872870006",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "天空カフェチロル",
+      "lat": 35.3742279,
+      "lng": 137.982305,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7502,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/872870006"
+    },
+    {
+      "id": "osm:way/870639259",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "はんば亭",
+      "lat": 35.3747275,
+      "lng": 137.9824738,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7555,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/870639259"
+    },
+    {
+      "id": "osm:way/738250316",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "ふるさと味覚小屋",
+      "lat": 35.3079655,
+      "lng": 137.8429785,
+      "address": "長野県天龍村長島5",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "http://www.vill-tenryu.jp/tourism/tourism_eat/eat/mikakukoya/",
+      "distanceM": 8119,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/738250316"
+    },
+    {
+      "id": "osm:way/787022968",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "奈川",
+      "lat": 35.3516351,
+      "lng": 137.8418168,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8758,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/787022968"
+    },
+    {
+      "id": "osm:way/787022949",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "やまゆり",
+      "lat": 35.3781016,
+      "lng": 137.846493,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9924,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/787022949"
+    }
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "stationId": "mne-19509",
+  "lat": 33.6032763,
+  "lng": 135.3917584,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T13:31:47Z",
+  "schemaVersion": 4,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:node/6840120719",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "榎本食堂",
+      "lat": 33.5851571,
+      "lng": 135.4587203,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6521,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6840120719"
+    },
+    {
+      "id": "osm:way/549862336",
+      "category": "food",
+      "subcategory": "sushi",
+      "subcategories": [
+        "sushi"
+      ],
+      "name": "海鮮寿司とれとれ市場",
+      "lat": 33.6805309,
+      "lng": 135.3760988,
+      "address": "和歌山県白浜町2523-1",
+      "openingHoursRaw": "11:00-21:30",
+      "phone": null,
+      "website": null,
+      "distanceM": 8712,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/549862336"
+    },
+    {
+      "id": "osm:node/5289360780",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "まる川",
+      "lat": 33.6790952,
+      "lng": 135.349984,
+      "address": null,
+      "openingHoursRaw": "Mo-We 10:00-22:00; Fr-Su 10:00-22:00",
+      "phone": null,
+      "website": "http://www.marukawa.info/",
+      "distanceM": 9275,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5289360780"
+    },
+    {
+      "id": "osm:node/3276203216",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "千畳茶屋",
+      "lat": 33.6713867,
+      "lng": 135.3309545,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9436,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/3276203216"
+    },
+    {
+      "id": "osm:node/12845370171",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "ルナ",
+      "lat": 33.678761,
+      "lng": 135.3432143,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9521,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/12845370171"
+    },
+    {
+      "id": "osm:way/1411363673",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "hale's aina honu「ホヌ」",
+      "lat": 33.6830059,
+      "lng": 135.3533074,
+      "address": "和歌山県白浜町",
+      "openingHoursRaw": "11:00-14:00,17:00-21:00; Tu off",
+      "phone": "0739-33-2114",
+      "website": null,
+      "distanceM": 9553,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1411363673"
+    },
+    {
+      "id": "osm:way/1103133063",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "福菱/かげろうカフェ",
+      "lat": 33.6839902,
+      "lng": 135.3542511,
+      "address": "和歌山県白浜町",
+      "openingHoursRaw": "Mo-Su 08:00-18:00 || 08:00-20:00 open \"Cafe and Bar\"",
+      "phone": "+81 739 42 3128",
+      "website": "https://fukubishi.co.jp/",
+      "distanceM": 9623,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1103133063"
+    },
+    {
+      "id": "osm:way/1102359197",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "レストランサカクラ",
+      "lat": 33.6824545,
+      "lng": 135.3464954,
+      "address": "和歌山県白浜町",
+      "openingHoursRaw": "Th-Tu 11:30-14:00,17:30-21:00",
+      "phone": "+81 739 42 1066",
+      "website": "http://restaurant-sakakura.com/",
+      "distanceM": 9750,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1102359197"
+    },
+    {
+      "id": "osm:way/1451066121",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": null,
+      "lat": 33.6832549,
+      "lng": 135.3485857,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9750,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1451066121"
+    },
+    {
+      "id": "osm:way/1102359193",
+      "category": "food",
+      "subcategory": "sushi",
+      "subcategories": [
+        "sushi"
+      ],
+      "name": "幸鮨",
+      "lat": 33.6826831,
+      "lng": 135.3470524,
+      "address": "和歌山県",
+      "openingHoursRaw": "We-Mo 11:00-13:30,17:00-21:00",
+      "phone": "+81 739 42 4027",
+      "website": "https://kouzushi.net/",
+      "distanceM": 9751,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1102359193"
+    },
+    {
+      "id": "osm:way/1451066119",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": null,
+      "lat": 33.6833297,
+      "lng": 135.3487691,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9751,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1451066119"
+    },
+    {
+      "id": "osm:way/1451066118",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "Restaurant Ailes 翼(エール)",
+      "lat": 33.6834806,
+      "lng": 135.3488146,
+      "address": "和歌山県白浜町9",
+      "openingHoursRaw": "Th-Mo 11:30-14:00,16:00-22:00; We[1,3,5] 11:30-14:00,16:00-22:00",
+      "phone": "+81-739-34-5530",
+      "website": "https://shirahama-ailes.com",
+      "distanceM": 9764,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1451066118"
+    },
+    {
+      "id": "osm:node/10087670530",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "九十九別邸 豆の湯",
+      "lat": 33.682562,
+      "lng": 135.3463697,
+      "address": "和歌山県白浜町新地長屋5号",
+      "openingHoursRaw": "Mo-Su 10:30-18:00",
+      "phone": "+81 739 33 7070",
+      "website": "https://www.shirahama99.com/mamenoyu",
+      "distanceM": 9766,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10087670530"
+    },
+    {
+      "id": "osm:node/10087090263",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "白熊UDON",
+      "lat": 33.6828651,
+      "lng": 135.3470843,
+      "address": "和歌山県白浜町銀座ビル 1F",
+      "openingHoursRaw": "Mo-Fr 17:00-23:30; Sa 11:30-14:00,17:00-23:30; Su,PH 11:30-14:00,17:00-24:00; Th,We[2] off",
+      "phone": "+81 739 33 9888",
+      "website": "https://www.facebook.com/udon.shirokuma/",
+      "distanceM": 9768,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10087090263"
+    },
+    {
+      "id": "osm:node/10087090269",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "スナック セリカ",
+      "lat": 33.6828437,
+      "lng": 135.3470001,
+      "address": "和歌山県白浜町",
+      "openingHoursRaw": "Tu-Su 20:00-01:00",
+      "phone": "+81 739 42 5501",
+      "website": "https://snack-serika.com/",
+      "distanceM": 9770,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10087090269"
+    },
+    {
+      "id": "osm:way/1112544046",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "キッチンまなべ",
+      "lat": 33.6855188,
+      "lng": 135.3546294,
+      "address": "和歌山県白浜町",
+      "openingHoursRaw": "Tu-Su 17:00-23:00; Mo[1],Tu[1] off; Su[3],Mo[3] off",
+      "phone": "+81-739-42-3663",
+      "website": null,
+      "distanceM": 9770,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1112544046"
+    },
+    {
+      "id": "osm:node/10087090270",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "中國料理 品品香",
+      "lat": 33.6828208,
+      "lng": 135.3469051,
+      "address": "和歌山県白浜町",
+      "openingHoursRaw": "We-Mo 17:30-00:00",
+      "phone": "+81 739 43 1838",
+      "website": "http://www.shirahama-ginza.com/gourmet/pinpinchian.html",
+      "distanceM": 9771,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10087090270"
+    },
+    {
+      "id": "osm:node/10087090271",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "ミルク&ビアホール 九十九",
+      "lat": 33.6827944,
+      "lng": 135.3468105,
+      "address": "和歌山県白浜町",
+      "openingHoursRaw": "We-Mo 18:00-23:59 \"但し大雨でない日(not on heavy rainy day)\"; Feb off",
+      "phone": "+81 739 43 0702",
+      "website": "https://www.shirahama99.com/tsukumo",
+      "distanceM": 9772,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10087090271"
+    },
+    {
+      "id": "osm:node/10087090272",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "くろしおマルシェ",
+      "lat": 33.6827723,
+      "lng": 135.3467255,
+      "address": "和歌山県白浜町銀座ビル321号",
+      "openingHoursRaw": "Th-Tu 11:30-15:00,17:30-22:00",
+      "phone": "+81 739 42 1030",
+      "website": "http://kuroshiomarche.com/",
+      "distanceM": 9773,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10087090272"
+    },
+    {
+      "id": "osm:node/10109114241",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "BLUE BAR",
+      "lat": 33.6829028,
+      "lng": 135.3462162,
+      "address": "和歌山県白浜町",
+      "openingHoursRaw": "Th-Tu 18:00-23:30 open \"Restaurant and bar\" || Th-Tu 18:00-02:30 open \"Bar\"",
+      "phone": null,
+      "website": "https://www.facebook.com/bluebarshirahama/",
+      "distanceM": 9807,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10109114241"
+    },
+    {
+      "id": "osm:node/10109114240",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "プールバー Q",
+      "lat": 33.6829295,
+      "lng": 135.3461599,
+      "address": "和歌山県白浜町銀座ビル",
+      "openingHoursRaw": "Mo-Su 19:00-03:00 \"不定休。Unscheduled closing date.\"",
+      "phone": "+81 739 34 2839",
+      "website": "http://www.shirahama-ginza.com/shop/q.html",
+      "distanceM": 9811,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10109114240"
+    },
+    {
+      "id": "osm:node/10109114239",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "ムーンライト",
+      "lat": 33.6829481,
+      "lng": 135.3461132,
+      "address": "和歌山県白浜町銀座ビル1階",
+      "openingHoursRaw": "Mo-Sa 19:00-01:00",
+      "phone": "+81 739 43 2516",
+      "website": null,
+      "distanceM": 9815,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10109114239"
+    },
+    {
+      "id": "osm:node/4837886774",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "Café Zin",
+      "lat": 33.6832829,
+      "lng": 135.3454788,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9874,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4837886774"
+    },
+    {
+      "id": "osm:way/547778288",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "カフェ ジン",
+      "lat": 33.6832886,
+      "lng": 135.3454939,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9874,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/547778288"
+    },
+    {
+      "id": "osm:node/4837997795",
+      "category": "food",
+      "subcategory": "ramen",
+      "subcategories": [
+        "ramen"
+      ],
+      "name": "和ん 和歌山ラーメン",
+      "lat": 33.6836421,
+      "lng": 135.3450294,
+      "address": null,
+      "openingHoursRaw": "PH,Mo-Su 17:00-02:00",
+      "phone": null,
+      "website": null,
+      "distanceM": 9928,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4837997795"
+    },
+    {
+      "id": "osm:way/545260436",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "だるまや",
+      "lat": 33.6845952,
+      "lng": 135.3467256,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9957,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/545260436"
+    },
+    {
+      "id": "osm:way/545260437",
+      "category": "food",
+      "subcategory": "sushi",
+      "subcategories": [
+        "sushi"
+      ],
+      "name": "Sushi Ippinryori fukuju\n寿司・一品料理 福重",
+      "lat": 33.6847434,
+      "lng": 135.3464976,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://www.fukujuu.com/",
+      "distanceM": 9981,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/545260437"
+    },
+    {
+      "id": "osm:node/6328488785",
+      "category": "food",
+      "subcategory": "ramen",
+      "subcategories": [
+        "ramen"
+      ],
+      "name": "まる正ラーメン",
+      "lat": 33.6848293,
+      "lng": 135.3464663,
+      "address": "和歌山県白浜町890-37",
+      "openingHoursRaw": "Mo-Su 11:00-14:30,17:00-22:00; Th off",
+      "phone": "0739431266",
+      "website": "http://marumasa.naxnet.jp/",
+      "distanceM": 9991,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6328488785"
+    },
+    {
+      "id": "osm:node/12794480213",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "Kiraku\n㐂楽",
+      "lat": 33.6849811,
+      "lng": 135.3464355,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 10007,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/12794480213"
+    }
+  ]
+}

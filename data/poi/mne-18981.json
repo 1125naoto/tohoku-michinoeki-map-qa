@@ -1,0 +1,180 @@
+{
+  "stationId": "mne-18981",
+  "lat": 39.0651389,
+  "lng": 140.460393,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T08:52:17Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:node/5619670460",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "レストラン 二ツ森",
+      "lat": 39.0651438,
+      "lng": 140.4604036,
+      "address": null,
+      "openingHoursRaw": "11:00-19:00",
+      "phone": null,
+      "website": null,
+      "distanceM": 1,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5619670460"
+    },
+    {
+      "id": "osm:node/5619670461",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "こまちカフェ ボスコ",
+      "lat": 39.0646482,
+      "lng": 140.4600388,
+      "address": null,
+      "openingHoursRaw": "Mo-Fr 10:00-16:00; Sa-Su 09:30-16:00",
+      "phone": null,
+      "website": null,
+      "distanceM": 63,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5619670461"
+    },
+    {
+      "id": "osm:way/980825699",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "小町園",
+      "lat": 39.06908,
+      "lng": 140.4598233,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 441,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/980825699"
+    },
+    {
+      "id": "osm:node/715565894",
+      "category": "food",
+      "subcategory": "ramen",
+      "subcategories": [
+        "ramen"
+      ],
+      "name": "ラーメンプレコ",
+      "lat": 39.0999871,
+      "lng": 140.4793059,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4205,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/715565894"
+    },
+    {
+      "id": "osm:node/715565973",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "Caffe Gita",
+      "lat": 39.0962171,
+      "lng": 140.4915827,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4381,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/715565973"
+    },
+    {
+      "id": "osm:node/1368778671",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "菊地旅館",
+      "lat": 39.0492797,
+      "lng": 140.4128457,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": "+81 0183 52-2329",
+      "website": null,
+      "distanceM": 4468,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/1368778671"
+    },
+    {
+      "id": "osm:node/5203771436",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "一家",
+      "lat": 39.1422742,
+      "lng": 140.4880161,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8902,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5203771436"
+    },
+    {
+      "id": "osm:node/5203771732",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "アリラン",
+      "lat": 39.1439787,
+      "lng": 140.4900668,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9133,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5203771732"
+    },
+    {
+      "id": "osm:node/5203753447",
+      "category": "food",
+      "subcategory": "sushi",
+      "subcategories": [
+        "sushi"
+      ],
+      "name": "うまい一丸鮨 湯沢店",
+      "lat": 39.1522174,
+      "lng": 140.4896238,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 10006,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5203753447"
+    }
+  ]
+}

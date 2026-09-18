@@ -1,0 +1,306 @@
+{
+  "stationId": "mne-19341",
+  "lat": 34.7577828,
+  "lng": 138.8253994,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T11:59:18Z",
+  "schemaVersion": 4,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:node/7802253319",
+      "category": "food",
+      "subcategory": "sushi",
+      "subcategories": [
+        "sushi"
+      ],
+      "name": "銀寿司",
+      "lat": 34.752965,
+      "lng": 138.7818718,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4012,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/7802253319"
+    },
+    {
+      "id": "osm:node/7802253702",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "乙姫",
+      "lat": 34.7530632,
+      "lng": 138.7817755,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4020,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/7802253702"
+    },
+    {
+      "id": "osm:way/559274831",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "蔵ら",
+      "lat": 34.7521562,
+      "lng": 138.778481,
+      "address": "静岡県松崎町319-1",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://izumatsuzakinet.com/蔵ら/",
+      "distanceM": 4332,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/559274831"
+    },
+    {
+      "id": "osm:node/2373154926",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "さくら",
+      "lat": 34.7492936,
+      "lng": 138.7763869,
+      "address": null,
+      "openingHoursRaw": "11:30-20:00",
+      "phone": null,
+      "website": null,
+      "distanceM": 4576,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2373154926"
+    },
+    {
+      "id": "osm:way/556211307",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "Satouya sweets・café",
+      "lat": 34.7714348,
+      "lng": 138.7776329,
+      "address": "静岡県西伊豆町257-2",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "http://satouya.com/",
+      "distanceM": 4620,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/556211307"
+    },
+    {
+      "id": "osm:node/9243077469",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "はちのす",
+      "lat": 34.7717975,
+      "lng": 138.7730433,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5030,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/9243077469"
+    },
+    {
+      "id": "osm:node/4202340648",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "沖あがり食堂",
+      "lat": 34.775236,
+      "lng": 138.7704074,
+      "address": "静岡県西伊豆町980-6",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://www.nishiizu-kankou.com/eat/okiagari.html",
+      "distanceM": 5385,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4202340648"
+    },
+    {
+      "id": "osm:node/9245613141",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "じょおれ",
+      "lat": 34.7783409,
+      "lng": 138.7690106,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5635,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/9245613141"
+    },
+    {
+      "id": "osm:node/7802253991",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "堂ヶ島食堂",
+      "lat": 34.7818109,
+      "lng": 138.7684969,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5844,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/7802253991"
+    },
+    {
+      "id": "osm:node/7800482885",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "岩屋",
+      "lat": 34.7821281,
+      "lng": 138.7684775,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5862,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/7800482885"
+    },
+    {
+      "id": "osm:node/7802253894",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "pizzeria  105",
+      "lat": 34.7829817,
+      "lng": 138.7690254,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5862,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/7802253894"
+    },
+    {
+      "id": "osm:node/7802253695",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "ドライブイン　幸進丸",
+      "lat": 34.7820121,
+      "lng": 138.7680997,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5887,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/7802253695"
+    },
+    {
+      "id": "osm:node/1761798081",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": null,
+      "lat": 34.7825712,
+      "lng": 138.768421,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5889,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/1761798081"
+    },
+    {
+      "id": "osm:node/7802253896",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "魚季亭",
+      "lat": 34.7822277,
+      "lng": 138.768004,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5905,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/7802253896"
+    },
+    {
+      "id": "osm:node/1761798103",
+      "category": "food",
+      "subcategory": "sushi",
+      "subcategories": [
+        "sushi"
+      ],
+      "name": "瀬浜寿司",
+      "lat": 34.7830719,
+      "lng": 138.7680809,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5943,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/1761798103"
+    },
+    {
+      "id": "osm:node/11107523359",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "浜の家食堂",
+      "lat": 34.7257144,
+      "lng": 138.7446514,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8195,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/11107523359"
+    }
+  ]
+}

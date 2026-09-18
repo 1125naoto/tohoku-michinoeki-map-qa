@@ -1,0 +1,108 @@
+{
+  "stationId": "mne-19532",
+  "lat": 34.853319,
+  "lng": 132.516919,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T13:44:49Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:node/10989598765",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "山の上のお母さんのうどん屋",
+      "lat": 34.862695,
+      "lng": 132.4515311,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6057,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10989598765"
+    },
+    {
+      "id": "osm:node/10989598766",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "よろず庵",
+      "lat": 34.8627336,
+      "lng": 132.4514871,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6061,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10989598766"
+    },
+    {
+      "id": "osm:way/1183425549",
+      "category": "food",
+      "subcategory": "italian",
+      "subcategories": [
+        "italian"
+      ],
+      "name": "里山イタリアン AJIKURA",
+      "lat": 34.8753298,
+      "lng": 132.4246172,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8770,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1183425549"
+    },
+    {
+      "id": "osm:way/1183425546",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "レストラン香夢里",
+      "lat": 34.8758959,
+      "lng": 132.4222808,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8992,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1183425546"
+    },
+    {
+      "id": "osm:way/1183418621",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "温泉食堂 釜之助",
+      "lat": 34.8746257,
+      "lng": 132.4215772,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9016,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1183418621"
+    }
+  ]
+}

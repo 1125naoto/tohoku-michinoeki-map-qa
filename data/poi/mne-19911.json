@@ -1,0 +1,144 @@
+{
+  "stationId": "mne-19911",
+  "lat": 33.876518,
+  "lng": 135.915236,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T16:36:52Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:node/10048466950",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": null,
+      "lat": 33.876692,
+      "lng": 135.9156093,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 40,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10048466950"
+    },
+    {
+      "id": "osm:way/407994225",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "瀞ホテル",
+      "lat": 33.9098418,
+      "lng": 135.8811669,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4860,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/407994225"
+    },
+    {
+      "id": "osm:way/414590683",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "みどり",
+      "lat": 33.8080221,
+      "lng": 135.8700068,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8687,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/414590683"
+    },
+    {
+      "id": "osm:way/407464704",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "ドライブイン志古",
+      "lat": 33.8143803,
+      "lng": 135.8581574,
+      "address": null,
+      "openingHoursRaw": "09:00- 17:00",
+      "phone": null,
+      "website": null,
+      "distanceM": 8691,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/407464704"
+    },
+    {
+      "id": "osm:way/407464707",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "ゆみ",
+      "lat": 33.8140443,
+      "lng": 135.858097,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8724,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/407464707"
+    },
+    {
+      "id": "osm:way/416293775",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "喫茶サンサロ",
+      "lat": 33.7976543,
+      "lng": 135.8741859,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9554,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/416293775"
+    },
+    {
+      "id": "osm:way/1421066094",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "かあちゃんの店",
+      "lat": 33.7906507,
+      "lng": 135.896727,
+      "address": null,
+      "openingHoursRaw": "Mo-Su 09:00-16:00",
+      "phone": null,
+      "website": "https://www.shinguu.jp/spots/detail/C0063",
+      "distanceM": 9700,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1421066094"
+    }
+  ]
+}

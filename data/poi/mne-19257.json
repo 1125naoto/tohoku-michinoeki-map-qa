@@ -1,0 +1,90 @@
+{
+  "stationId": "mne-19257",
+  "lat": 37.140177,
+  "lng": 136.724883,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T10:46:11Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:node/11513605139",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "レストラン松本",
+      "lat": 37.1577027,
+      "lng": 136.7182262,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 2036,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/11513605139"
+    },
+    {
+      "id": "osm:way/1237713349",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "ファーマーズレストラン香能の丘",
+      "lat": 37.1597017,
+      "lng": 136.6890179,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 3849,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1237713349"
+    },
+    {
+      "id": "osm:way/1216497123",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": null,
+      "lat": 37.0945921,
+      "lng": 136.7283763,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5078,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1216497123"
+    },
+    {
+      "id": "osm:node/13754453520",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "ロードパーク 女の浦",
+      "lat": 37.0910989,
+      "lng": 136.7279313,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5464,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13754453520"
+    }
+  ]
+}

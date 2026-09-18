@@ -1,0 +1,306 @@
+{
+  "stationId": "mne-19223",
+  "lat": 38.08365874,
+  "lng": 138.4362432,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T17:43:53Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:node/10720543482",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "maSanicofffee",
+      "lat": 38.0813072,
+      "lng": 138.43715,
+      "address": null,
+      "openingHoursRaw": "06:30-19:15",
+      "phone": null,
+      "website": null,
+      "distanceM": 273,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10720543482"
+    },
+    {
+      "id": "osm:node/10720543462",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "スタミナ道場 みなと",
+      "lat": 38.0809569,
+      "lng": 138.4362417,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 300,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10720543462"
+    },
+    {
+      "id": "osm:node/10720543489",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "いさりび",
+      "lat": 38.080887,
+      "lng": 138.4363124,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 308,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10720543489"
+    },
+    {
+      "id": "osm:node/10720543494",
+      "category": "food",
+      "subcategory": "sushi",
+      "subcategories": [
+        "sushi"
+      ],
+      "name": "魚秀",
+      "lat": 38.0807344,
+      "lng": 138.4364473,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 326,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10720543494"
+    },
+    {
+      "id": "osm:node/10720543476",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "ROTARY",
+      "lat": 38.0806912,
+      "lng": 138.4365064,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 331,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10720543476"
+    },
+    {
+      "id": "osm:node/10720543485",
+      "category": "food",
+      "subcategory": "ramen",
+      "subcategories": [
+        "ramen"
+      ],
+      "name": "INABA RAMEN",
+      "lat": 38.0804501,
+      "lng": 138.4367365,
+      "address": null,
+      "openingHoursRaw": "Mo-Tu,Th-Sa 11:00-14:00",
+      "phone": null,
+      "website": null,
+      "distanceM": 359,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10720543485"
+    },
+    {
+      "id": "osm:node/10720543488",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "更科",
+      "lat": 38.086589,
+      "lng": 138.4317122,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 513,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10720543488"
+    },
+    {
+      "id": "osm:node/6432175714",
+      "category": "food",
+      "subcategory": "sushi",
+      "subcategories": [
+        "sushi"
+      ],
+      "name": "すしやまるいし",
+      "lat": 38.0822614,
+      "lng": 138.4190134,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 1516,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6432175714"
+    },
+    {
+      "id": "osm:node/6432175713",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "カフェテラス四季",
+      "lat": 38.0823216,
+      "lng": 138.4189825,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 1518,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6432175713"
+    },
+    {
+      "id": "osm:node/8178401275",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "味彩 たびのホテル佐渡",
+      "lat": 38.0201053,
+      "lng": 138.3640927,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://sado.tabino-hotel.jp/",
+      "distanceM": 9479,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/8178401275"
+    },
+    {
+      "id": "osm:way/1160202291",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "食い処 ひきの",
+      "lat": 38.0200686,
+      "lng": 138.3625696,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9571,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1160202291"
+    },
+    {
+      "id": "osm:way/1160202294",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "駅馬車",
+      "lat": 38.0198943,
+      "lng": 138.3625345,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9588,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1160202294"
+    },
+    {
+      "id": "osm:way/1160202497",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "割烹 一休",
+      "lat": 38.0166346,
+      "lng": 138.3660955,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9658,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1160202497"
+    },
+    {
+      "id": "osm:node/11575898561",
+      "category": "food",
+      "subcategory": "ramen",
+      "subcategories": [
+        "ramen"
+      ],
+      "name": "三代目ラーメン",
+      "lat": 38.0178359,
+      "lng": 138.3640207,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9673,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/11575898561"
+    },
+    {
+      "id": "osm:way/1160202248",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "手打ちそば 徳平",
+      "lat": 38.0171146,
+      "lng": 138.3626732,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9811,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1160202248"
+    },
+    {
+      "id": "osm:way/1160202222",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "中国料理 金華楼",
+      "lat": 38.0164704,
+      "lng": 138.360825,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9971,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1160202222"
+    }
+  ]
+}

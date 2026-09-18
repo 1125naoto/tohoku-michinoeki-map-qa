@@ -1,0 +1,90 @@
+{
+  "stationId": "mne-19496",
+  "lat": 34.0150722,
+  "lng": 135.3344646,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T13:24:02Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:node/10159795559",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "森のカフェ",
+      "lat": 34.047947,
+      "lng": 135.3423059,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 3726,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10159795559"
+    },
+    {
+      "id": "osm:way/758314742",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "gekkou pizza&coffee",
+      "lat": 34.0337491,
+      "lng": 135.2909971,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4512,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/758314742"
+    },
+    {
+      "id": "osm:way/689588433",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": null,
+      "lat": 34.0376372,
+      "lng": 135.2739522,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6115,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/689588433"
+    },
+    {
+      "id": "osm:way/1108111000",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "ファーム",
+      "lat": 34.0525598,
+      "lng": 135.24372,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9343,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1108111000"
+    }
+  ]
+}

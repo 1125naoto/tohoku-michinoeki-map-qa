@@ -1,0 +1,883 @@
+{
+  "stationId": "mne-19583",
+  "lat": 34.6745412,
+  "lng": 132.5412326,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T18:28:34Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "ok",
+  "foodIncomplete": false,
+  "otherIncomplete": false,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:node/4084975382",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.6803195,
+      "lng": 132.5302048,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 1196,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4084975382"
+    },
+    {
+      "id": "osm:way/481541003",
+      "category": "tourism",
+      "subcategory": "koen",
+      "subcategories": [
+        "koen"
+      ],
+      "name": "千代田運動公園",
+      "lat": 34.6864227,
+      "lng": 132.5436494,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 1340,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/481541003"
+    },
+    {
+      "id": "osm:node/4156930403",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.6809691,
+      "lng": 132.5569558,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 1606,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4156930403"
+    },
+    {
+      "id": "osm:node/2824421008",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.6845874,
+      "lng": 132.5198024,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 2256,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421008"
+    },
+    {
+      "id": "osm:node/2824421011",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.6890195,
+      "lng": 132.5203447,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 2498,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421011"
+    },
+    {
+      "id": "osm:node/4217332092",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.656065,
+      "lng": 132.5241377,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 2582,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4217332092"
+    },
+    {
+      "id": "osm:node/2824421014",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.6936521,
+      "lng": 132.5234133,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 2678,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421014"
+    },
+    {
+      "id": "osm:node/4219130457",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.6823658,
+      "lng": 132.573951,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 3116,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4219130457"
+    },
+    {
+      "id": "osm:node/2824421012",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.6897721,
+      "lng": 132.5108018,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 3257,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421012"
+    },
+    {
+      "id": "osm:node/2824421013",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.6902374,
+      "lng": 132.5076929,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 3529,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421013"
+    },
+    {
+      "id": "osm:node/2824421030",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.701094,
+      "lng": 132.516321,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 3729,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421030"
+    },
+    {
+      "id": "osm:node/2824419999",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.64819,
+      "lng": 132.5138103,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 3857,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824419999"
+    },
+    {
+      "id": "osm:node/2824421010",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.6867907,
+      "lng": 132.5004739,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 3968,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421010"
+    },
+    {
+      "id": "osm:node/3673260503",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "平家ヶ城山",
+      "lat": 34.7111455,
+      "lng": 132.531993,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4157,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/3673260503"
+    },
+    {
+      "id": "osm:node/2824419993",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.6428346,
+      "lng": 132.5156702,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4230,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824419993"
+    },
+    {
+      "id": "osm:node/3673260511",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "権現山",
+      "lat": 34.7101356,
+      "lng": 132.5228604,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4300,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/3673260511"
+    },
+    {
+      "id": "osm:node/2824419992",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.6409733,
+      "lng": 132.5136715,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4504,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824419992"
+    },
+    {
+      "id": "osm:node/2824421036",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.70504,
+      "lng": 132.5059532,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4680,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421036"
+    },
+    {
+      "id": "osm:node/2824419990",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.6402196,
+      "lng": 132.5083138,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4861,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824419990"
+    },
+    {
+      "id": "osm:node/2824421043",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.7078694,
+      "lng": 132.5047865,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4984,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421043"
+    },
+    {
+      "id": "osm:node/2824421106",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "猿喰山",
+      "lat": 34.6523487,
+      "lng": 132.4907671,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5234,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421106"
+    },
+    {
+      "id": "osm:way/443386830",
+      "category": "onsen",
+      "subcategory": "kyukei",
+      "subcategories": [
+        "kyukei"
+      ],
+      "name": "本郷PA (下り)",
+      "lat": 34.6953591,
+      "lng": 132.6004641,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5890,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/443386830"
+    },
+    {
+      "id": "osm:node/3673260494",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "堂床山",
+      "lat": 34.6234739,
+      "lng": 132.5751495,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6471,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/3673260494"
+    },
+    {
+      "id": "osm:node/3673260514",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "津々羅山",
+      "lat": 34.6876096,
+      "lng": 132.6107581,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6521,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/3673260514"
+    },
+    {
+      "id": "osm:way/483002981",
+      "category": "tourism",
+      "subcategory": "koen",
+      "subcategories": [
+        "koen"
+      ],
+      "name": "のどごえ公園",
+      "lat": 34.6621312,
+      "lng": 132.6167837,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7046,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/483002981"
+    },
+    {
+      "id": "osm:node/2824421103",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "滝脇山",
+      "lat": 34.6333277,
+      "lng": 132.4822603,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7078,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421103"
+    },
+    {
+      "id": "osm:node/2824421090",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "城山",
+      "lat": 34.6474361,
+      "lng": 132.4711167,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7086,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421090"
+    },
+    {
+      "id": "osm:node/2824421045",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.7085451,
+      "lng": 132.4744623,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7181,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421045"
+    },
+    {
+      "id": "osm:node/2824421050",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.7095929,
+      "lng": 132.4725242,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7393,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421050"
+    },
+    {
+      "id": "osm:node/2824421108",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "野々志山",
+      "lat": 34.6547736,
+      "lng": 132.4612152,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7641,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421108"
+    },
+    {
+      "id": "osm:node/2824421001",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.6488118,
+      "lng": 132.4632401,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7686,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421001"
+    },
+    {
+      "id": "osm:node/2824419987",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.6352882,
+      "lng": 132.4709054,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7774,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824419987"
+    },
+    {
+      "id": "osm:node/2824419988",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.6357635,
+      "lng": 132.4678418,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7978,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824419988"
+    },
+    {
+      "id": "osm:node/2824421007",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.674272,
+      "lng": 132.4519771,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8162,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421007"
+    },
+    {
+      "id": "osm:node/2824421104",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "火野山",
+      "lat": 34.7352798,
+      "lng": 132.4869217,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8382,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421104"
+    },
+    {
+      "id": "osm:node/2824421101",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "海見山",
+      "lat": 34.613588,
+      "lng": 132.4837786,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8577,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421101"
+    },
+    {
+      "id": "osm:node/2824419984",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.6259227,
+      "lng": 132.4665677,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8711,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824419984"
+    },
+    {
+      "id": "osm:node/2824421100",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": "海応寺",
+      "lat": 34.7192618,
+      "lng": 132.4627311,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8731,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421100"
+    },
+    {
+      "id": "osm:node/2775009244",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "冠山",
+      "lat": 34.5968286,
+      "lng": 132.5125428,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9031,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2775009244"
+    },
+    {
+      "id": "osm:node/3673260507",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "文蔵山",
+      "lat": 34.7556972,
+      "lng": 132.5188098,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9254,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/3673260507"
+    },
+    {
+      "id": "osm:way/709059168",
+      "category": "onsen",
+      "subcategory": "higaeri_onsen",
+      "subcategories": [
+        "higaeri_onsen"
+      ],
+      "name": "道の駅豊平どんぐり村;龍頭の湯",
+      "lat": 34.647075,
+      "lng": 132.4451467,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9304,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/709059168"
+    },
+    {
+      "id": "osm:node/2824421002",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.650441,
+      "lng": 132.4438046,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9305,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421002"
+    },
+    {
+      "id": "osm:node/2824421003",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.6512746,
+      "lng": 132.4403207,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9585,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421003"
+    },
+    {
+      "id": "osm:way/782710176",
+      "category": "onsen",
+      "subcategory": "higaeri_onsen",
+      "subcategories": [
+        "higaeri_onsen",
+        "onsen"
+      ],
+      "name": "岩戸屋",
+      "lat": 34.7223185,
+      "lng": 132.6285995,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9593,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/782710176"
+    },
+    {
+      "id": "osm:node/2824421111",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "龍頭山",
+      "lat": 34.6652906,
+      "lng": 132.4327151,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9977,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421111"
+    },
+    {
+      "id": "osm:node/2824421055",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.7152191,
+      "lng": 132.443901,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9982,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2824421055"
+    },
+    {
+      "id": "osm:node/3673260630",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "鷹巣山",
+      "lat": 34.7631915,
+      "lng": 132.5592499,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9994,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/3673260630"
+    },
+    {
+      "id": "osm:way/443388034",
+      "category": "onsen",
+      "subcategory": "kyukei",
+      "subcategories": [
+        "kyukei"
+      ],
+      "name": "本郷PA (上り)",
+      "lat": 34.7164147,
+      "lng": 132.6382511,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 10018,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/443388034"
+    }
+  ]
+}

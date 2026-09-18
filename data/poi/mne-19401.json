@@ -1,0 +1,198 @@
+{
+  "stationId": "mne-19401",
+  "lat": 35.4812687,
+  "lng": 135.6299804,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T11:25:03Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:node/8039919897",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "ジェラート&カフェ",
+      "lat": 35.4812415,
+      "lng": 135.630027,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/8039919897"
+    },
+    {
+      "id": "osm:node/8039919899",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "うみぼーず",
+      "lat": 35.4811798,
+      "lng": 135.6301447,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 18,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/8039919899"
+    },
+    {
+      "id": "osm:node/11884781226",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": null,
+      "lat": 35.4829058,
+      "lng": 135.6195449,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 962,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/11884781226"
+    },
+    {
+      "id": "osm:way/873018158",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "レストラン安土山",
+      "lat": 35.4966314,
+      "lng": 135.5820485,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4664,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/873018158"
+    },
+    {
+      "id": "osm:node/11882917254",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": null,
+      "lat": 35.48642,
+      "lng": 135.5473751,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7501,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/11882917254"
+    },
+    {
+      "id": "osm:node/2798414489",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "ラ・イルマーレ",
+      "lat": 35.4886459,
+      "lng": 135.535736,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8572,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2798414489"
+    },
+    {
+      "id": "osm:node/3159592933",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "cafe watoto",
+      "lat": 35.472932,
+      "lng": 135.7289215,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9007,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/3159592933"
+    },
+    {
+      "id": "osm:way/753375148",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "雅",
+      "lat": 35.4922411,
+      "lng": 135.7346418,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9554,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/753375148"
+    },
+    {
+      "id": "osm:way/753372408",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "お食事処濱の四季",
+      "lat": 35.5008835,
+      "lng": 135.7371919,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9948,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/753372408"
+    },
+    {
+      "id": "osm:way/753374081",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "食彩ごえん",
+      "lat": 35.4951994,
+      "lng": 135.7388477,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9978,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/753374081"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "stationId": "mne-19423",
+  "lat": 35.105711,
+  "lng": 136.371792,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T12:37:16Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:way/641265043",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "マイミータン",
+      "lat": 35.1115838,
+      "lng": 136.3716552,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 653,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/641265043"
+    },
+    {
+      "id": "osm:way/619181067",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "池田養魚場",
+      "lat": 35.0938539,
+      "lng": 136.3786179,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 1457,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/619181067"
+    },
+    {
+      "id": "osm:way/437544647",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "香想庵",
+      "lat": 35.0675962,
+      "lng": 136.3110546,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6964,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/437544647"
+    },
+    {
+      "id": "osm:node/5915731090",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "Cafe. Alluboccio",
+      "lat": 35.0812058,
+      "lng": 136.286953,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8186,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5915731090"
+    },
+    {
+      "id": "osm:way/625299599",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "お食事処万葉香",
+      "lat": 35.0410162,
+      "lng": 136.3280787,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8220,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/625299599"
+    },
+    {
+      "id": "osm:node/5915717991",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "カフェ & ギャラリー 慧蔵",
+      "lat": 35.0708203,
+      "lng": 136.2716112,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9906,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5915717991"
+    }
+  ]
+}

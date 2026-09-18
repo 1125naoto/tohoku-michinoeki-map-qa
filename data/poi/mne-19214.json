@@ -1,0 +1,162 @@
+{
+  "stationId": "mne-19214",
+  "lat": 37.1326116,
+  "lng": 138.6138286,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T10:13:53Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:node/3349080593",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "常春",
+      "lat": 37.132621,
+      "lng": 138.613786,
+      "address": null,
+      "openingHoursRaw": "11:00-14:00,16:00-22:00",
+      "phone": "0255973913",
+      "website": null,
+      "distanceM": 4,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/3349080593"
+    },
+    {
+      "id": "osm:node/6806178489",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "峠の茶屋蔵",
+      "lat": 37.1334489,
+      "lng": 138.5626021,
+      "address": null,
+      "openingHoursRaw": "Mo-Su 11:00-14:30, 17:30-20:00",
+      "phone": "+81 25-597-3390",
+      "website": "https://www.matsudai.com/syoukoukai/kura/",
+      "distanceM": 4542,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6806178489"
+    },
+    {
+      "id": "osm:node/10142432903",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "イエローハウス",
+      "lat": 37.1204383,
+      "lng": 138.5424777,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6469,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10142432903"
+    },
+    {
+      "id": "osm:node/3347192993",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "滝見屋",
+      "lat": 37.0659985,
+      "lng": 138.6013752,
+      "address": null,
+      "openingHoursRaw": "10:00-21:00; Th off",
+      "phone": "0255962307",
+      "website": null,
+      "distanceM": 7489,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/3347192993"
+    },
+    {
+      "id": "osm:node/11045596079",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "さか新",
+      "lat": 37.0657152,
+      "lng": 138.6007366,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7529,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/11045596079"
+    },
+    {
+      "id": "osm:node/11045596083",
+      "category": "food",
+      "subcategory": "fastfood",
+      "subcategories": [
+        "fastfood"
+      ],
+      "name": "日の出家",
+      "lat": 37.0652065,
+      "lng": 138.6005756,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7587,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/11045596083"
+    },
+    {
+      "id": "osm:node/11045596077",
+      "category": "food",
+      "subcategory": "ramen",
+      "subcategories": [
+        "ramen"
+      ],
+      "name": "手打らーめん柳家",
+      "lat": 37.0649207,
+      "lng": 138.6001986,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7623,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/11045596077"
+    },
+    {
+      "id": "osm:node/5760769009",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "食事処 ながせ",
+      "lat": 37.1990895,
+      "lng": 138.686431,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9799,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5760769009"
+    }
+  ]
+}

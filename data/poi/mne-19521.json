@@ -1,0 +1,162 @@
+{
+  "stationId": "mne-19521",
+  "lat": 35.3293041,
+  "lng": 133.7560998,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T13:38:41Z",
+  "schemaVersion": 4,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:way/161867564",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": null,
+      "lat": 35.2978299,
+      "lng": 133.7250717,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4492,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/161867564"
+    },
+    {
+      "id": "osm:node/13070061152",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "やまな食堂",
+      "lat": 35.2908026,
+      "lng": 133.7230634,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": "+81-867-66-4113",
+      "website": "https://yamanashokudou.com/",
+      "distanceM": 5226,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13070061152"
+    },
+    {
+      "id": "osm:node/13070061163",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "蒜山耕藝の食卓 くど",
+      "lat": 35.2674687,
+      "lng": 133.7789292,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": "+81-867-45-7145",
+      "website": "https://hiruzenkougei.com/p488",
+      "distanceM": 7181,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13070061163"
+    },
+    {
+      "id": "osm:node/6435592971",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "ひるぜん塩釜ロッジ",
+      "lat": 35.3009166,
+      "lng": 133.6794757,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7635,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6435592971"
+    },
+    {
+      "id": "osm:node/6435593033",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "塩釜堂",
+      "lat": 35.3015464,
+      "lng": 133.6786887,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7672,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6435593033"
+    },
+    {
+      "id": "osm:node/6435593034",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "冷泉茶屋",
+      "lat": 35.3014657,
+      "lng": 133.6785372,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7688,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6435593034"
+    },
+    {
+      "id": "osm:node/13070061162",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "蒜山 鰻専門店 翏",
+      "lat": 35.2623915,
+      "lng": 133.7898759,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://www.ryo-hiruzen.com/",
+      "distanceM": 8047,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13070061162"
+    },
+    {
+      "id": "osm:relation/2166559",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": null,
+      "lat": 35.2946224,
+      "lng": 133.668571,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8829,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/relation/2166559"
+    }
+  ]
+}

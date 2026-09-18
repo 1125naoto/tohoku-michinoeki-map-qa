@@ -1,0 +1,1458 @@
+{
+  "stationId": "mne-19352",
+  "lat": 34.6748202,
+  "lng": 138.9508766,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T12:05:33Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": true,
+  "otherIncomplete": false,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:node/6280360899",
+      "category": "tourism",
+      "subcategory": "meisho",
+      "subcategories": [
+        "meisho"
+      ],
+      "name": "道の駅開国下田みなと",
+      "lat": 34.6748064,
+      "lng": 138.9511655,
+      "address": "静岡県下田市1－1",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 26,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6280360899"
+    },
+    {
+      "id": "osm:node/6280360900",
+      "category": "tourism",
+      "subcategory": "meisho",
+      "subcategories": [
+        "meisho"
+      ],
+      "name": "下田港内めぐり（サスケハナ号）",
+      "lat": 34.6747078,
+      "lng": 138.9527215,
+      "address": "静岡県下田市19",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 169,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6280360900"
+    },
+    {
+      "id": "osm:node/4795892037",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "黒船ホテル",
+      "lat": 34.6755133,
+      "lng": 138.9525488,
+      "address": "静岡県下田市3-8",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "http://www.kurofune-hotel.com/,http://www.kurofune-hotel.com/lang/en.html",
+      "distanceM": 171,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4795892037"
+    },
+    {
+      "id": "osm:node/5603023863",
+      "category": "tourism",
+      "subcategory": "meisho",
+      "subcategories": [
+        "meisho"
+      ],
+      "name": "まどが浜海遊公園",
+      "lat": 34.6758278,
+      "lng": 138.9553827,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 427,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5603023863"
+    },
+    {
+      "id": "osm:node/6177426716",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.6751683,
+      "lng": 138.9459137,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 455,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6177426716"
+    },
+    {
+      "id": "osm:node/4795892044",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "下田オーシャンパークホテル",
+      "lat": 34.6770651,
+      "lng": 138.9564501,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 568,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4795892044"
+    },
+    {
+      "id": "osm:node/6193880974",
+      "category": "tourism",
+      "subcategory": "meisho",
+      "subcategories": [
+        "meisho"
+      ],
+      "name": "下田ロープウェイ",
+      "lat": 34.6788919,
+      "lng": 138.9461603,
+      "address": "静岡県下田市1-3-2",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://ropeway.co.jp/",
+      "distanceM": 625,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6193880974"
+    },
+    {
+      "id": "osm:node/1499560062",
+      "category": "tourism",
+      "subcategory": "tenbo",
+      "subcategories": [
+        "tenbo"
+      ],
+      "name": "黒船展望台",
+      "lat": 34.6803053,
+      "lng": 138.9537604,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 664,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/1499560062"
+    },
+    {
+      "id": "osm:node/4350177001",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "ビジネスホテルとん亭",
+      "lat": 34.6795854,
+      "lng": 138.9459197,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 697,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4350177001"
+    },
+    {
+      "id": "osm:node/5537803035",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "ホテルウラガ",
+      "lat": 34.6726378,
+      "lng": 138.9434364,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 722,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5537803035"
+    },
+    {
+      "id": "osm:node/1420978915",
+      "category": "tourism",
+      "subcategory": "hakubutsukan",
+      "subcategories": [
+        "hakubutsukan"
+      ],
+      "name": "唐人お吉記念館",
+      "lat": 34.676431,
+      "lng": 138.943055,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://www.toujinokichi-kinenkan.com/",
+      "distanceM": 737,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/1420978915"
+    },
+    {
+      "id": "osm:node/6769151953",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "寝姿山",
+      "lat": 34.6809929,
+      "lng": 138.9539707,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 742,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6769151953"
+    },
+    {
+      "id": "osm:node/3563566804",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": "稲田寺",
+      "lat": 34.6777999,
+      "lng": 138.9429005,
+      "address": "静岡県下田市5",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 801,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/3563566804"
+    },
+    {
+      "id": "osm:node/4406072706",
+      "category": "tourism",
+      "subcategory": "meisho",
+      "subcategories": [
+        "meisho"
+      ],
+      "name": "松陰像",
+      "lat": 34.6750255,
+      "lng": 138.9596527,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 803,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4406072706"
+    },
+    {
+      "id": "osm:node/3999400556",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.6763384,
+      "lng": 138.9420025,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 829,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/3999400556"
+    },
+    {
+      "id": "osm:node/6249046729",
+      "category": "tourism",
+      "subcategory": "meisho",
+      "subcategories": [
+        "meisho"
+      ],
+      "name": "伊豆のせんたんツアーセンター",
+      "lat": 34.6733169,
+      "lng": 138.9418951,
+      "address": "静岡県下田市1-23",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 838,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6249046729"
+    },
+    {
+      "id": "osm:node/1421001669",
+      "category": "tourism",
+      "subcategory": "hakubutsukan",
+      "subcategories": [
+        "hakubutsukan"
+      ],
+      "name": "長楽寺宝物館",
+      "lat": 34.671236,
+      "lng": 138.942458,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 867,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/1421001669"
+    },
+    {
+      "id": "osm:node/3557122073",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.6748996,
+      "lng": 138.9412681,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 879,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/3557122073"
+    },
+    {
+      "id": "osm:node/3557122052",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": "了仙寺",
+      "lat": 34.6721798,
+      "lng": 138.9416489,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "http://www.izu.co.jp/~ryosenji/,http://www.izu.co.jp/~ryosenji/eigo.html",
+      "distanceM": 893,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/3557122052"
+    },
+    {
+      "id": "osm:node/6249046730",
+      "category": "tourism",
+      "subcategory": "koen",
+      "subcategories": [
+        "koen"
+      ],
+      "name": "下田公園",
+      "lat": 34.6680851,
+      "lng": 138.9451946,
+      "address": "静岡県下田市3-1174",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://www.city.shimoda.shizuoka.jp/category/100100midokoro/110769.html",
+      "distanceM": 912,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6249046730"
+    },
+    {
+      "id": "osm:node/4406074461",
+      "category": "tourism",
+      "subcategory": "meisho",
+      "subcategories": [
+        "meisho"
+      ],
+      "name": "松陰像（まるで素浪人の様な石造）",
+      "lat": 34.676339,
+      "lng": 138.9608507,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 928,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4406074461"
+    },
+    {
+      "id": "osm:node/3999400543",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 34.675659,
+      "lng": 138.9407204,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 933,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/3999400543"
+    },
+    {
+      "id": "osm:node/5603024174",
+      "category": "tourism",
+      "subcategory": "meisho",
+      "subcategories": [
+        "meisho"
+      ],
+      "name": "下田海中水族館",
+      "lat": 34.6661868,
+      "lng": 138.9461816,
+      "address": "静岡県下田市22-31",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://shimoda-aquarium.com/",
+      "distanceM": 1052,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5603024174"
+    },
+    {
+      "id": "osm:node/3971290089",
+      "category": "tourism",
+      "subcategory": "doubutsuen_suizokukan",
+      "subcategories": [
+        "doubutsuen_suizokukan"
+      ],
+      "name": "下田海中水族館",
+      "lat": 34.6661667,
+      "lng": 138.9460634,
+      "address": "静岡県下田市三丁目22-31",
+      "openingHoursRaw": "Mo-Su 09:00-16:00",
+      "phone": null,
+      "website": "https://www.shimoda-aquarium.com/",
+      "distanceM": 1058,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/3971290089"
+    },
+    {
+      "id": "osm:node/1420995344",
+      "category": "tourism",
+      "subcategory": "hakubutsukan",
+      "subcategories": [
+        "hakubutsukan"
+      ],
+      "name": "玉泉寺ハリス記念館",
+      "lat": 34.675724,
+      "lng": 138.962411,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://www.izu-gyokusenji.or.jp/museum/",
+      "distanceM": 1060,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/1420995344"
+    },
+    {
+      "id": "osm:node/6672779085",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": "玉泉寺",
+      "lat": 34.6758019,
+      "lng": 138.9624444,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 1063,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6672779085"
+    },
+    {
+      "id": "osm:node/6763259414",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "下田富士",
+      "lat": 34.6822661,
+      "lng": 138.9409349,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 1230,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6763259414"
+    },
+    {
+      "id": "osm:node/4104186834",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "下田東急ホテル",
+      "lat": 34.6680416,
+      "lng": 138.9383637,
+      "address": "静岡県下田市12-1",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://www.tokyuhotels.co.jp/shimoda-h/index.html,https://www.tokyuhotelsjapan.com/global/shimoda-h/",
+      "distanceM": 1370,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4104186834"
+    },
+    {
+      "id": "osm:node/6261429214",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "ホテル山田屋",
+      "lat": 34.6710177,
+      "lng": 138.9653641,
+      "address": "静岡県下田市40-61",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://www.hotel-yamadaya.com/\t,https://www.hotel-yamadaya.com/translation/",
+      "distanceM": 1391,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6261429214"
+    },
+    {
+      "id": "osm:node/6261392359",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "下田ビューホテル",
+      "lat": 34.6774125,
+      "lng": 138.9720115,
+      "address": "静岡県下田市633",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "http://www.viewhotel.co.jp/",
+      "distanceM": 1954,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6261392359"
+    },
+    {
+      "id": "osm:node/6265523551",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "下田大和館",
+      "lat": 34.6620607,
+      "lng": 138.933576,
+      "address": "静岡県下田市2048",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "http://www.shimoda-yamatokan.co.jp/,https://www.shimoda-yamatokan.co.jp/english/index.html",
+      "distanceM": 2125,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6265523551"
+    },
+    {
+      "id": "osm:node/5318198947",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "しっぽのおやど",
+      "lat": 34.6637029,
+      "lng": 138.9764007,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "http://sippo.blue/",
+      "distanceM": 2641,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5318198947"
+    },
+    {
+      "id": "osm:node/5318199138",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "オーシャンビュー博海温泉ホテル",
+      "lat": 34.6537804,
+      "lng": 138.9653437,
+      "address": "静岡県下田市",
+      "openingHoursRaw": null,
+      "phone": "+81588364868",
+      "website": "https://d-reserve.jp/calendar?hotelCode=0000001953",
+      "distanceM": 2688,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5318199138"
+    },
+    {
+      "id": "osm:node/6265593171",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "清流荘",
+      "lat": 34.6969875,
+      "lng": 138.9391548,
+      "address": "静岡県下田市2-2",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://www.seiryuso.co.jp/",
+      "distanceM": 2688,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6265593171"
+    },
+    {
+      "id": "osm:node/5306108090",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": "恵比須神社",
+      "lat": 34.6518378,
+      "lng": 138.9651966,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 2872,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5306108090"
+    },
+    {
+      "id": "osm:node/5317878365",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "九十浜海水浴場",
+      "lat": 34.6665832,
+      "lng": 138.9810689,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 2909,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5317878365"
+    },
+    {
+      "id": "osm:node/6265591039",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "大地の彩 花月亭",
+      "lat": 34.6981493,
+      "lng": 138.9320454,
+      "address": "静岡県下田市273-2",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://rendaiji-kagetsutei.jp/",
+      "distanceM": 3113,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6265591039"
+    },
+    {
+      "id": "osm:node/6763259415",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "高根山",
+      "lat": 34.7026458,
+      "lng": 138.9552017,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 3119,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6763259415"
+    },
+    {
+      "id": "osm:node/5317694990",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "下田プリンスホテル",
+      "lat": 34.6962512,
+      "lng": 138.9731552,
+      "address": "静岡県下田市1547-1",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://www.princehotels.co.jp/shimoda/,http://www.princehotels.com/shimoda/",
+      "distanceM": 3135,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5317694990"
+    },
+    {
+      "id": "osm:node/5317878364",
+      "category": "tourism",
+      "subcategory": "koen",
+      "subcategories": [
+        "koen"
+      ],
+      "name": "爪木崎花園",
+      "lat": 34.6612614,
+      "lng": 138.9831968,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 3318,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5317878364"
+    },
+    {
+      "id": "osm:node/5318043371",
+      "category": "tourism",
+      "subcategory": "tenbo",
+      "subcategories": [
+        "tenbo"
+      ],
+      "name": "見晴台",
+      "lat": 34.6594776,
+      "lng": 138.9840726,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 3482,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5318043371"
+    },
+    {
+      "id": "osm:node/6282638642",
+      "category": "tourism",
+      "subcategory": "meisho",
+      "subcategories": [
+        "meisho"
+      ],
+      "name": "爪木崎俵磯",
+      "lat": 34.6587,
+      "lng": 138.9848393,
+      "address": "静岡県下田市",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 3586,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6282638642"
+    },
+    {
+      "id": "osm:node/4361127391",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": null,
+      "lat": 34.6530939,
+      "lng": 138.9142669,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://www.wabisabishimoda.com/",
+      "distanceM": 4129,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4361127391"
+    },
+    {
+      "id": "osm:node/5330309977",
+      "category": "tourism",
+      "subcategory": "tenbo",
+      "subcategories": [
+        "tenbo"
+      ],
+      "name": "田牛ハマオモト自生地",
+      "lat": 34.6428964,
+      "lng": 138.9154538,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4806,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5330309977"
+    },
+    {
+      "id": "osm:node/5635309782",
+      "category": "tourism",
+      "subcategory": "tenbo",
+      "subcategories": [
+        "tenbo"
+      ],
+      "name": "サンドスキー場を一望",
+      "lat": 34.6425383,
+      "lng": 138.915545,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4830,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5635309782"
+    },
+    {
+      "id": "osm:node/5635309781",
+      "category": "tourism",
+      "subcategory": "tenbo",
+      "subcategories": [
+        "tenbo"
+      ],
+      "name": null,
+      "lat": 34.6426145,
+      "lng": 138.9154217,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4831,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5635309781"
+    },
+    {
+      "id": "osm:node/5635309780",
+      "category": "tourism",
+      "subcategory": "tenbo",
+      "subcategories": [
+        "tenbo"
+      ],
+      "name": "須崎方面と伊豆諸島の眺望",
+      "lat": 34.6419734,
+      "lng": 138.9158602,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4858,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5635309780"
+    },
+    {
+      "id": "osm:node/5635309791",
+      "category": "tourism",
+      "subcategory": "meisho",
+      "subcategories": [
+        "meisho"
+      ],
+      "name": "龍宮窟",
+      "lat": 34.6422393,
+      "lng": 138.9152567,
+      "address": "静岡県下田市444",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://izugeopark.org/geosites/ryugukutsu/",
+      "distanceM": 4872,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5635309791"
+    },
+    {
+      "id": "osm:node/5635309783",
+      "category": "tourism",
+      "subcategory": "tenbo",
+      "subcategories": [
+        "tenbo"
+      ],
+      "name": null,
+      "lat": 34.6419006,
+      "lng": 138.9155601,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4882,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5635309783"
+    },
+    {
+      "id": "osm:node/5635309784",
+      "category": "tourism",
+      "subcategory": "tenbo",
+      "subcategories": [
+        "tenbo"
+      ],
+      "name": null,
+      "lat": 34.6419712,
+      "lng": 138.9154378,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4883,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5635309784"
+    },
+    {
+      "id": "osm:node/5330309969",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": "田牛八幡神社",
+      "lat": 34.6416459,
+      "lng": 138.91411,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4992,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5330309969"
+    },
+    {
+      "id": "osm:node/5330309974",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": "長谷寺",
+      "lat": 34.6424119,
+      "lng": 138.9113037,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5108,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5330309974"
+    },
+    {
+      "id": "osm:node/4240778856",
+      "category": "tourism",
+      "subcategory": "tenbo",
+      "subcategories": [
+        "tenbo"
+      ],
+      "name": "尾ヶ崎ウイング",
+      "lat": 34.7153302,
+      "lng": 138.9877323,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5625,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4240778856"
+    },
+    {
+      "id": "osm:node/6265407671",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "里山の別邸 下田セントラルホテル",
+      "lat": 34.7190425,
+      "lng": 138.9149018,
+      "address": "静岡県下田市133-1",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://www.shimoda-central-hotel.co.jp/",
+      "distanceM": 5916,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6265407671"
+    },
+    {
+      "id": "osm:node/1420975983",
+      "category": "tourism",
+      "subcategory": "hakubutsukan",
+      "subcategories": [
+        "hakubutsukan"
+      ],
+      "name": "上原仏教美術館",
+      "lat": 34.728156,
+      "lng": 138.925761,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6360,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/1420975983"
+    },
+    {
+      "id": "osm:node/1420975985",
+      "category": "tourism",
+      "subcategory": "hakubutsukan",
+      "subcategories": [
+        "hakubutsukan"
+      ],
+      "name": "上原近代美術館",
+      "lat": 34.7285598,
+      "lng": 138.9255743,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6408,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/1420975985"
+    },
+    {
+      "id": "osm:node/4708466233",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "休暇村 南伊豆",
+      "lat": 34.6362211,
+      "lng": 138.893191,
+      "address": "静岡県南伊豆町889-1",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://www.qkamura.or.jp/izu/,https://www.qkamura.or.jp/en/izu/",
+      "distanceM": 6802,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4708466233"
+    },
+    {
+      "id": "osm:node/6249262830",
+      "category": "tourism",
+      "subcategory": "meisho",
+      "subcategories": [
+        "meisho"
+      ],
+      "name": "一条竹の子村",
+      "lat": 34.6826038,
+      "lng": 138.877042,
+      "address": "静岡県南伊豆町717",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6807,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6249262830"
+    },
+    {
+      "id": "osm:node/6769418359",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "大平山",
+      "lat": 34.7369104,
+      "lng": 138.9466451,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6915,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6769418359"
+    },
+    {
+      "id": "osm:node/5317695460",
+      "category": "tourism",
+      "subcategory": "doubutsuen_suizokukan",
+      "subcategories": [
+        "doubutsuen_suizokukan"
+      ],
+      "name": "体感動物園iZoo",
+      "lat": 34.7309658,
+      "lng": 138.9949557,
+      "address": "静岡県河津町406-2",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "http://www.izoo.co.jp/",
+      "distanceM": 7431,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5317695460"
+    },
+    {
+      "id": "osm:node/6769418360",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "天領山",
+      "lat": 34.7371242,
+      "lng": 138.9899797,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7796,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6769418360"
+    },
+    {
+      "id": "osm:node/6275894035",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "花のおもてなし南楽",
+      "lat": 34.6498625,
+      "lng": 138.8689097,
+      "address": "静岡県南伊豆町130-1",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "http://www.nanraku.com/,http://www.nanraku.com/english/",
+      "distanceM": 7994,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6275894035"
+    },
+    {
+      "id": "osm:node/6275894036",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "ホテル河内屋",
+      "lat": 34.6486399,
+      "lng": 138.8687464,
+      "address": "静岡県南伊豆町436-1",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://www.kawatiya.net/",
+      "distanceM": 8056,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6275894036"
+    },
+    {
+      "id": "osm:node/2636655300",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "離れ家 石田屋",
+      "lat": 34.7457644,
+      "lng": 138.9896417,
+      "address": "静岡県河津町226",
+      "openingHoursRaw": null,
+      "phone": "+81 0558-32-1001",
+      "website": "http://www.ishidaya.com/",
+      "distanceM": 8648,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2636655300"
+    },
+    {
+      "id": "osm:node/6358327394",
+      "category": "tourism",
+      "subcategory": "meisho",
+      "subcategories": [
+        "meisho"
+      ],
+      "name": null,
+      "lat": 34.7457401,
+      "lng": 138.9898191,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8652,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6358327394"
+    },
+    {
+      "id": "osm:node/2636641669",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": "谷津秋葉神社",
+      "lat": 34.7441952,
+      "lng": 138.9940996,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8667,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2636641669"
+    },
+    {
+      "id": "osm:node/2636641664",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": "河津八幡神社",
+      "lat": 34.7442038,
+      "lng": 138.9941854,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8671,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2636641664"
+    },
+    {
+      "id": "osm:node/2636641661",
+      "category": "lodging",
+      "subcategory": "guesthouse",
+      "subcategories": [
+        "guesthouse"
+      ],
+      "name": "岩谷旅館",
+      "lat": 34.7436333,
+      "lng": 138.9957896,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8683,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2636641661"
+    },
+    {
+      "id": "osm:node/2643897066",
+      "category": "onsen",
+      "subcategory": "higaeri_onsen",
+      "subcategories": [
+        "higaeri_onsen"
+      ],
+      "name": "河津三郎の足湯",
+      "lat": 34.7437092,
+      "lng": 138.9958598,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8694,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2643897066"
+    },
+    {
+      "id": "osm:node/2636641616",
+      "category": "onsen",
+      "subcategory": "higaeri_onsen",
+      "subcategories": [
+        "higaeri_onsen"
+      ],
+      "name": null,
+      "lat": 34.7437718,
+      "lng": 138.9957995,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8697,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2636641616"
+    },
+    {
+      "id": "osm:node/1498028894",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "ForestCamp南伊豆",
+      "lat": 34.6377695,
+      "lng": 138.8669609,
+      "address": "静岡県南伊豆町",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8711,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/1498028894"
+    },
+    {
+      "id": "osm:node/2636655254",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "やかた",
+      "lat": 34.7449317,
+      "lng": 138.9935169,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8716,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2636655254"
+    },
+    {
+      "id": "osm:node/2636641662",
+      "category": "onsen",
+      "subcategory": "higaeri_onsen",
+      "subcategories": [
+        "higaeri_onsen"
+      ],
+      "name": "嵐の湯",
+      "lat": 34.7444587,
+      "lng": 138.9950583,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8733,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2636641662"
+    },
+    {
+      "id": "osm:node/2636641665",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "海遊亭",
+      "lat": 34.7436117,
+      "lng": 138.9977131,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8766,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2636641665"
+    },
+    {
+      "id": "osm:node/4375036765",
+      "category": "tourism",
+      "subcategory": "tenbo",
+      "subcategories": [
+        "tenbo"
+      ],
+      "name": "河津桜",
+      "lat": 34.7470544,
+      "lng": 138.9924272,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8885,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4375036765"
+    },
+    {
+      "id": "osm:node/2643897065",
+      "category": "tourism",
+      "subcategory": "tourism_other",
+      "subcategories": [
+        "tourism_other"
+      ],
+      "name": "和み優",
+      "lat": 34.7470037,
+      "lng": 138.9964189,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9042,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/2643897065"
+    },
+    {
+      "id": "osm:node/6255443385",
+      "category": "tourism",
+      "subcategory": "meisho",
+      "subcategories": [
+        "meisho"
+      ],
+      "name": "かわづカーネーション見本園",
+      "lat": 34.7524087,
+      "lng": 138.9907404,
+      "address": "静岡県河津町11",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9365,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6255443385"
+    },
+    {
+      "id": "osm:node/6248676292",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "伊豆今井浜東急ホテル",
+      "lat": 34.7515615,
+      "lng": 139.0035483,
+      "address": "静岡県河津町35-1",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://www.tokyuhotels.co.jp/imaihama-h/index.html,https://www.tokyuhotelsjapan.com/global/imaihama-h/",
+      "distanceM": 9798,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6248676292"
+    },
+    {
+      "id": "osm:node/5603023862",
+      "category": "tourism",
+      "subcategory": "meisho",
+      "subcategories": [
+        "meisho"
+      ],
+      "name": "東大寺",
+      "lat": 34.7597409,
+      "lng": 138.9807715,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9830,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5603023862"
+    },
+    {
+      "id": "osm:node/6763259419",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "平氏ヶ岳",
+      "lat": 34.6320588,
+      "lng": 138.8558901,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9904,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6763259419"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "stationId": "mne-18904",
+  "lat": 41.2703981,
+  "lng": 140.8882189,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T08:40:46Z",
+  "schemaVersion": 4,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:way/439633260",
+      "category": "onsen",
+      "subcategory": "kyukei",
+      "subcategories": [
+        "kyukei"
+      ],
+      "name": "道の駅かわうち湖",
+      "lat": 41.2704399,
+      "lng": 140.8883588,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 13,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/439633260"
+    },
+    {
+      "id": "osm:way/589005609",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "ぬいどう食堂",
+      "lat": 41.3276396,
+      "lng": 140.81201,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9002,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/589005609"
+    },
+    {
+      "id": "osm:way/589005613",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "仏ヶ浦ドライブイン",
+      "lat": 41.3277491,
+      "lng": 140.8115121,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9040,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/589005613"
+    }
+  ]
+}

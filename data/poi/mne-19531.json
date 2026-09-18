@@ -1,0 +1,54 @@
+{
+  "stationId": "mne-19531",
+  "lat": 34.8203532,
+  "lng": 131.9768367,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T13:43:54Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:node/829948410",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "ジョイフル",
+      "lat": 34.8646418,
+      "lng": 132.0266663,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6703,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/829948410"
+    },
+    {
+      "id": "osm:way/656962257",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": null,
+      "lat": 34.8646712,
+      "lng": 132.026725,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6709,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/656962257"
+    }
+  ]
+}

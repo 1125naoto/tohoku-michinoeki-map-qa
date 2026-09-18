@@ -1,0 +1,72 @@
+{
+  "stationId": "mne-19197",
+  "lat": 36.2306352,
+  "lng": 138.1403249,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T11:17:15Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:way/415771560",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "うつくしテラス",
+      "lat": 36.2339866,
+      "lng": 138.1060037,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 3101,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/415771560"
+    },
+    {
+      "id": "osm:way/1256797359",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "三峰茶屋",
+      "lat": 36.1641063,
+      "lng": 138.1372255,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7403,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1256797359"
+    },
+    {
+      "id": "osm:way/1256797366",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "和田峠茶屋",
+      "lat": 36.1474867,
+      "lng": 138.1436217,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9250,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1256797366"
+    }
+  ]
+}

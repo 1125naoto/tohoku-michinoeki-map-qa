@@ -1,0 +1,198 @@
+{
+  "stationId": "mne-19511",
+  "lat": 33.601578,
+  "lng": 135.765646,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T13:33:38Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:node/8451526123",
+      "category": "food",
+      "subcategory": "fastfood",
+      "subcategories": [
+        "fastfood"
+      ],
+      "name": "たこ焼き屋",
+      "lat": 33.6020795,
+      "lng": 135.7655772,
+      "address": "那智勝浦古座川線",
+      "openingHoursRaw": "Sa-We 10:30-15:00",
+      "phone": "090 6911 0127",
+      "website": null,
+      "distanceM": 56,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/8451526123"
+    },
+    {
+      "id": "osm:node/8451526227",
+      "category": "food",
+      "subcategory": "fastfood",
+      "subcategories": [
+        "fastfood"
+      ],
+      "name": "滝の拝",
+      "lat": 33.6020842,
+      "lng": 135.7655591,
+      "address": "那智勝浦古座川線809-1",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 57,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/8451526227"
+    },
+    {
+      "id": "osm:node/9647717717",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "鰻と民宿　やまびこ",
+      "lat": 33.6036261,
+      "lng": 135.7671107,
+      "address": "那智勝浦古座川線",
+      "openingHoursRaw": "Mo-Su 11:00-14:00",
+      "phone": "0735-79-0002",
+      "website": "http://www.za.ztv.ne.jp/t9sn2ujs/",
+      "distanceM": 265,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/9647717717"
+    },
+    {
+      "id": "osm:node/4937966621",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "やまびこ",
+      "lat": 33.6037321,
+      "lng": 135.766949,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": "0735-79-0002",
+      "website": null,
+      "distanceM": 268,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4937966621"
+    },
+    {
+      "id": "osm:node/8451330519",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "やまびこ",
+      "lat": 33.6037129,
+      "lng": 135.767131,
+      "address": "那智勝浦古座川線809-1",
+      "openingHoursRaw": "Mo-Su 11:00-14:00",
+      "phone": "0735-79-0002",
+      "website": null,
+      "distanceM": 274,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/8451330519"
+    },
+    {
+      "id": "osm:node/8017742795",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "やまびこ",
+      "lat": 33.6421383,
+      "lng": 135.7815527,
+      "address": null,
+      "openingHoursRaw": "Fr-We 09:00-15:00",
+      "phone": "0735-79-0002",
+      "website": null,
+      "distanceM": 4745,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/8017742795"
+    },
+    {
+      "id": "osm:way/486518203",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "ゆずの学校",
+      "lat": 33.6433666,
+      "lng": 135.6893769,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8454,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/486518203"
+    },
+    {
+      "id": "osm:node/4893352789",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "つくる",
+      "lat": 33.5308352,
+      "lng": 135.8129582,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9005,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4893352789"
+    },
+    {
+      "id": "osm:way/542872145",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "和み",
+      "lat": 33.5320265,
+      "lng": 135.8157969,
+      "address": null,
+      "openingHoursRaw": "24/7",
+      "phone": null,
+      "website": null,
+      "distanceM": 9022,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/542872145"
+    },
+    {
+      "id": "osm:way/542871911",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "丸や",
+      "lat": 33.5243867,
+      "lng": 135.8209884,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9998,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/542871911"
+    }
+  ]
+}

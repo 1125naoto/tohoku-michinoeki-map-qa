@@ -1,0 +1,252 @@
+{
+  "stationId": "mne-19360",
+  "lat": 34.9713,
+  "lng": 138.7868,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T12:09:30Z",
+  "schemaVersion": 4,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:node/7340191662",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "のー食堂",
+      "lat": 34.9703684,
+      "lng": 138.7775293,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 851,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/7340191662"
+    },
+    {
+      "id": "osm:way/651315611",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "峠の茶屋 アザセボラ",
+      "lat": 35.0165978,
+      "lng": 138.7859166,
+      "address": "静岡県沼津市",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5038,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/651315611"
+    },
+    {
+      "id": "osm:node/6255412327",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "だるま山高原レストハウス",
+      "lat": 34.9757512,
+      "lng": 138.8508955,
+      "address": "静岡県伊豆市1018-1",
+      "openingHoursRaw": null,
+      "phone": "0558-72-0595",
+      "website": "https://kanko.city.izu.shizuoka.jp/form1.html?c1=2&c2=1&pid=2909",
+      "distanceM": 5861,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6255412327"
+    },
+    {
+      "id": "osm:node/7802253914",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "キッチン　シッポ",
+      "lat": 34.9113716,
+      "lng": 138.7934044,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6691,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/7802253914"
+    },
+    {
+      "id": "osm:node/13523354208",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "マジックアワーカフェ Porto101",
+      "lat": 34.9101567,
+      "lng": 138.7902315,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6806,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13523354208"
+    },
+    {
+      "id": "osm:node/7802253910",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "ノードストローム",
+      "lat": 34.9089086,
+      "lng": 138.7906191,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6946,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/7802253910"
+    },
+    {
+      "id": "osm:node/7802253716",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "味蔵山　(日本料理)",
+      "lat": 34.9084459,
+      "lng": 138.791765,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7004,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/7802253716"
+    },
+    {
+      "id": "osm:node/4115217789",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "井里絵",
+      "lat": 35.0136814,
+      "lng": 138.8458404,
+      "address": null,
+      "openingHoursRaw": "11:00-19:00",
+      "phone": null,
+      "website": null,
+      "distanceM": 7151,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4115217789"
+    },
+    {
+      "id": "osm:node/7802253911",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "ハーモニー",
+      "lat": 34.9069752,
+      "lng": 138.7903243,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7160,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/7802253911"
+    },
+    {
+      "id": "osm:node/7802253723",
+      "category": "food",
+      "subcategory": "ramen",
+      "subcategories": [
+        "ramen"
+      ],
+      "name": "ラーメン　道",
+      "lat": 34.905369,
+      "lng": 138.8051071,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7519,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/7802253723"
+    },
+    {
+      "id": "osm:way/404075117",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "やま弥",
+      "lat": 35.0194971,
+      "lng": 138.8603179,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8577,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/404075117"
+    },
+    {
+      "id": "osm:node/5604222421",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "食事処　澤　（魚介料理)",
+      "lat": 34.895775,
+      "lng": 138.7668896,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8592,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5604222421"
+    },
+    {
+      "id": "osm:way/404075114",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "メゾンドメール貝殻亭",
+      "lat": 35.0195064,
+      "lng": 138.860545,
+      "address": "静岡県沼津市",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8594,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/404075114"
+    }
+  ]
+}

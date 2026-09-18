@@ -1,0 +1,162 @@
+{
+  "stationId": "mne-19300",
+  "lat": 35.323636,
+  "lng": 137.471578,
+  "radiusM": 10000,
+  "generatedAt": "2026-09-14T11:37:07Z",
+  "schemaVersion": 3,
+  "source": "overpass",
+  "queryVersion": 2,
+  "status": "partial",
+  "foodIncomplete": false,
+  "otherIncomplete": true,
+  "endpointsUsed": [
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+  ],
+  "pois": [
+    {
+      "id": "osm:node/9001075773",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": null,
+      "lat": 35.3233137,
+      "lng": 137.4720652,
+      "address": null,
+      "openingHoursRaw": "09:00-17:00; Jan-Mar 09:00-16:00; Dec-Mar Tu off",
+      "phone": null,
+      "website": null,
+      "distanceM": 57,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/9001075773"
+    },
+    {
+      "id": "osm:node/7114836584",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "たまごや喫茶らんらん",
+      "lat": 35.2901586,
+      "lng": 137.4850347,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 3918,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/7114836584"
+    },
+    {
+      "id": "osm:node/10127651172",
+      "category": "food",
+      "subcategory": "shokudo",
+      "subcategories": [
+        "shokudo"
+      ],
+      "name": "鳥兵",
+      "lat": 35.364742,
+      "lng": 137.4437612,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": "+81 57-3432-525",
+      "website": "https://torihyou.jimdofree.com/",
+      "distanceM": 5221,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10127651172"
+    },
+    {
+      "id": "osm:way/1395177832",
+      "category": "food",
+      "subcategory": "italian",
+      "subcategories": [
+        "italian"
+      ],
+      "name": "グリーンハーブ",
+      "lat": 35.3652163,
+      "lng": 137.4445284,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5234,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1395177832"
+    },
+    {
+      "id": "osm:node/13566163007",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "ささゆりの里",
+      "lat": 35.2622663,
+      "lng": 137.4050166,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9114,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13566163007"
+    },
+    {
+      "id": "osm:way/1395520927",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "ささゆりの里",
+      "lat": 35.2622479,
+      "lng": 137.4050182,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9115,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1395520927"
+    },
+    {
+      "id": "osm:way/1128452142",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "ミル",
+      "lat": 35.3346723,
+      "lng": 137.3675152,
+      "address": "岐阜県恵那市28",
+      "openingHoursRaw": "We-Su 11:00-18:30",
+      "phone": "+81-573-56-3668",
+      "website": "http://milou9953.blogspot.com",
+      "distanceM": 9520,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1128452142"
+    },
+    {
+      "id": "osm:node/10857172168",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "サトノエキカフェ",
+      "lat": 35.2369347,
+      "lng": 137.4485031,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://www.instagram.com/satonoeki_cafe",
+      "distanceM": 9866,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/10857172168"
+    }
+  ]
+}
